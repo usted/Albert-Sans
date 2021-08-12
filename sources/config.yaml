@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - AlbertSans.glyphs
 axisOrder:
   - wght
   - ital
-familyName: Rubik
+familyName: Albert Sans
