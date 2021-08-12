@@ -23,10 +23,6 @@ The Albert Sans family includes ten weights from Thin to Black and supports the 
 
 ![Sample Image](documentation/image1.png)
 
-## About
-
-Description of you and/or organisation goes here.
-
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
