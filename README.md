@@ -1,16 +1,16 @@
 # The Albert Sans Font Project 
 
-[![][Fontbakery]](https://usted.github.io/Albert-Sans.git.git/fontbakery-report.html)
-[![][Universal]](https://usted.github.io/Albert-Sans.git.git/fontbakery-report.html)
-[![][GF Profile]](https://usted.github.io/Albert-Sans.git.git/fontbakery-report.html)
-[![][Outline Correctness]](https://usted.github.io/Albert-Sans.git.git/fontbakery-report.html)
-[![][Shaping]](https://usted.github.io/Albert-Sans.git.git/fontbakery-report.html)
+[![][Fontbakery]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
+[![][Universal]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
+[![][GF Profile]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
+[![][Outline Correctness]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
+[![][Shaping]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans.git.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans.git.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans.git.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans.git.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans.git.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Albert Sans is a modern geometric sans serif family. 
 It is inspired by the type-characteristics made by scandinavian architects and designers in the beginning of the 20th century.
