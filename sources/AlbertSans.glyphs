@@ -382,7 +382,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-08-13 16:01:27 +0000";
+lastChange = "2021-08-13 18:33:49 +0000";
 layers = (
 {
 anchors = (
@@ -476,7 +476,7 @@ nodes = (
 "505.5 210 LINE",
 "585.505 0 LINE",
 "610.5 0 LINE",
-"343.5 700 LINE",
+"343.5 701 LINE",
 "278.5 700 LINE",
 "10.5 0 LINE"
 );
