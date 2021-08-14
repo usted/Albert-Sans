@@ -49614,37 +49614,38 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-interpolationWeight = 120;
+interpolationWeight = 115;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 1;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.95833;
+"6E968933-CD79-43C6-9231-80D77C940F4D" = 0.04167;
 };
 name = Medium;
 weightClass = Medium;
 },
 {
-interpolationWeight = 137;
+interpolationWeight = 132;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.7875;
-"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.2125;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.85;
+"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.15;
 };
 name = SemiBold;
 weightClass = SemiBold;
 },
 {
-interpolationWeight = 154;
+interpolationWeight = 150;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.575;
-"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.425;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.625;
+"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.375;
 };
 isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
 {
-interpolationWeight = 180;
+interpolationWeight = 175;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.25;
-"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.75;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.3125;
+"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.6875;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
