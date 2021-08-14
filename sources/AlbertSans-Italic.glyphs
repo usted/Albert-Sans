@@ -1,5 +1,8 @@
 {
 .appVersion = "3091";
+DisplayStrings = (
+A
+);
 classes = (
 {
 code = "colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide";
@@ -385,7 +388,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-08-13 16:01:27 +0000";
+lastChange = "2021-08-14 20:41:28 +0000";
 layers = (
 {
 anchors = (
@@ -448,7 +451,7 @@ width = 713.181;
 anchors = (
 {
 name = ogonek;
-position = "{532, 0}";
+position = "{534, 0}";
 },
 {
 name = top;
