@@ -49614,10 +49614,9 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-interpolationWeight = 115;
+interpolationWeight = 120;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.95833;
-"6E968933-CD79-43C6-9231-80D77C940F4D" = 0.04167;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 1;
 };
 name = Medium;
 weightClass = Medium;

@@ -45732,10 +45732,9 @@ isItalic = 1;
 name = Italic;
 },
 {
-interpolationWeight = 115;
+interpolationWeight = 120;
 instanceInterpolations = {
-"24A19461-EE5C-48C0-A968-CC082199DAC2" = 0.95833;
-"F7832249-9EF4-4513-B883-88BAA20BF268" = 0.04167;
+"24A19461-EE5C-48C0-A968-CC082199DAC2" = 1;
 };
 isItalic = 1;
 linkStyle = Medium;
