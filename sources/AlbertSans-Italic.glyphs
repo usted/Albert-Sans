@@ -31678,7 +31678,7 @@ unicode = 00AD;
 },
 {
 glyphname = endash;
-lastChange = "2021-08-13 16:01:28 +0000";
+lastChange = "2021-08-14 21:12:38 +0000";
 layers = (
 {
 hints = (
@@ -31693,14 +31693,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"110 314 LINE",
-"645 314 LINE",
-"665 410 LINE",
-"130 410 LINE"
+"88.689 206 LINE",
+"623.689 206 LINE",
+"643.689 302 LINE",
+"108.689 302 LINE"
 );
 }
 );
-width = 730.5;
+width = 730.536;
 },
 {
 hints = (
@@ -31715,14 +31715,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"144 370 LINE",
-"646 370 LINE",
-"650 389 LINE",
-"148 389 LINE"
+"120.363 251 LINE",
+"622.363 251 LINE",
+"626.363 270 LINE",
+"124.363 270 LINE"
 );
 }
 );
-width = 742.24468;
+width = 742.31018;
 },
 {
 hints = (
@@ -31737,14 +31737,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"67 277 LINE",
-"624 277 LINE",
-"653 423 LINE",
-"96 423 LINE"
+"49.423 189 LINE",
+"606.423 189 LINE",
+"635.423 335 LINE",
+"78.423 335 LINE"
 );
 }
 );
-width = 680.17875;
+width = 680.10025;
 }
 );
 leftMetricsKey = "=H*1.15";
@@ -39785,7 +39785,7 @@ unicode = 002B;
 },
 {
 glyphname = minus;
-lastChange = "2021-08-13 16:01:28 +0000";
+lastChange = "2021-08-14 21:12:11 +0000";
 layers = (
 {
 hints = (
@@ -39800,10 +39800,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"102 270 LINE",
-"513 270 LINE",
-"532 366 LINE",
-"121 366 LINE"
+"102 206 LINE",
+"513 206 LINE",
+"532 302 LINE",
+"121 302 LINE"
 );
 }
 );
@@ -39822,10 +39822,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"124 270 LINE",
-"489 270 LINE",
-"493 290 LINE",
-"128 290 LINE"
+"124 250 LINE",
+"489 250 LINE",
+"493 270 LINE",
+"128 270 LINE"
 );
 }
 );
@@ -39844,10 +39844,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"61 246 LINE",
-"503 246 LINE",
-"532 392 LINE",
-"90 392 LINE"
+"61 189 LINE",
+"503 189 LINE",
+"532 335 LINE",
+"90 335 LINE"
 );
 }
 );

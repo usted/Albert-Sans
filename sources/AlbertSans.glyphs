@@ -1,12 +1,5 @@
 {
 .appVersion = "3091";
-DisplayStrings = (
-"ð",
-u,
-"þ",
-"/tcedilla",
-"("
-);
 classes = (
 {
 code = "colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide";
@@ -34225,7 +34218,7 @@ unicode = 00AD;
 },
 {
 glyphname = endash;
-lastChange = "2021-08-13 16:01:28 +0000";
+lastChange = "2021-08-14 21:08:33 +0000";
 layers = (
 {
 hints = (
@@ -34240,10 +34233,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"97.75 314 LINE",
-"632.75 314 LINE",
-"632.75 410 LINE",
-"97.75 410 LINE"
+"97.75 206.113 LINE",
+"632.75 206.113 LINE",
+"632.75 302.113 LINE",
+"97.75 302.113 LINE"
 );
 }
 );
@@ -34269,10 +34262,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120.75 370 LINE",
-"622.75 370 LINE",
-"622.75 389 LINE",
-"120.75 389 LINE"
+"120.75 251.108 LINE",
+"622.75 251.108 LINE",
+"622.75 270.108 LINE",
+"120.75 270.108 LINE"
 );
 }
 );
@@ -34291,10 +34284,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"60.95 277 LINE",
-"617.95 277 LINE",
-"617.95 423 LINE",
-"60.95 423 LINE"
+"60.95 189.513 LINE",
+"617.95 189.513 LINE",
+"617.95 335.513 LINE",
+"60.95 335.513 LINE"
 );
 }
 );
@@ -43176,7 +43169,7 @@ unicode = 002B;
 },
 {
 glyphname = minus;
-lastChange = "2021-08-13 16:01:28 +0000";
+lastChange = "2021-08-14 21:08:54 +0000";
 layers = (
 {
 hints = (
@@ -43191,10 +43184,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"97.75 270 LINE",
-"508.75 270 LINE",
-"508.75 366 LINE",
-"97.75 366 LINE"
+"97.75 210 LINE",
+"508.75 210 LINE",
+"508.75 306 LINE",
+"97.75 306 LINE"
 );
 }
 );
@@ -43220,10 +43213,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120.75 270 LINE",
+"120.75 250 LINE",
+"485.75 250 LINE",
 "485.75 270 LINE",
-"485.75 290 LINE",
-"120.75 290 LINE"
+"120.75 270 LINE"
 );
 }
 );
@@ -43242,10 +43235,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"60.95 246 LINE",
-"503.95 246 LINE",
-"503.95 392 LINE",
-"60.95 392 LINE"
+"60.95 188 LINE",
+"503.95 188 LINE",
+"503.95 334 LINE",
+"60.95 334 LINE"
 );
 }
 );
