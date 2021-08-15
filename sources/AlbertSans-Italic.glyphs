@@ -27,7 +27,7 @@ value = (
 },
 {
 name = "Variable Font Origin";
-value = "24A19461-EE5C-48C0-A968-CC082199DAC2";
+value = "87509AA7-DF84-4576-AC67-D737052257C5";
 },
 {
 name = "Use Line Breaks";
@@ -164,7 +164,6 @@ xHeight = 500;
 {
 ascender = 720;
 capHeight = 700;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;

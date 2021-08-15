@@ -1,5 +1,8 @@
 {
 .appVersion = "3091";
+DisplayStrings = (
+A
+);
 classes = (
 {
 code = "colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide";
@@ -489,7 +492,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-08-15 19:44:50 +0000";
+lastChange = "2021-08-15 20:03:11 +0000";
 layers = (
 {
 anchors = (
@@ -583,7 +586,7 @@ nodes = (
 "505.5 210 LINE",
 "585.505 0 LINE",
 "610.5 0 LINE",
-"343.5 701 LINE",
+"343.5 700 LINE",
 "278.5 700 LINE",
 "10.5 0 LINE"
 );
