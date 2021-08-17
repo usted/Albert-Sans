@@ -1,8 +1,5 @@
 {
 .appVersion = "3091";
-DisplayStrings = (
-A
-);
 classes = (
 {
 code = "colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide";
@@ -10531,7 +10528,7 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2021-08-15 19:44:50 +0000";
+lastChange = "2021-08-17 06:48:10 +0000";
 layers = (
 {
 hints = (
@@ -10578,7 +10575,7 @@ nodes = (
 "454 422 OFFCURVE",
 "454 350 CURVE SMOOTH",
 "454 279 OFFCURVE",
-"414 232 OFFCURVE",
+"414 231.986 OFFCURVE",
 "325 231.992 CURVE SMOOTH"
 );
 },
@@ -10711,7 +10708,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"230 265 LINE",
+"230 264 LINE",
 "230 437 LINE",
 "319 437 LINE SMOOTH",
 "386 437 OFFCURVE",
@@ -15900,7 +15897,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2021-08-16 17:58:40 +0000";
+lastChange = "2021-08-17 06:54:47 +0000";
 layers = (
 {
 anchors = (
@@ -15978,8 +15975,8 @@ nodes = (
 "115.277 -9 OFFCURVE",
 "219.277 -9 CURVE SMOOTH",
 "288.277 -9 OFFCURVE",
-"331.277 22 OFFCURVE",
-"361.277 61 CURVE",
+"329.277 22 OFFCURVE",
+"359.277 61 CURVE",
 "368.277 0 LINE"
 );
 },
@@ -16061,8 +16058,8 @@ nodes = (
 "126.401 -6 OFFCURVE",
 "228.401 -6 CURVE SMOOTH",
 "331.401 -6 OFFCURVE",
-"401.401 47 OFFCURVE",
-"425.401 139 CURVE",
+"400.401 47 OFFCURVE",
+"424.401 139 CURVE",
 "425.401 0 LINE"
 );
 },
@@ -16070,7 +16067,7 @@ nodes = (
 closed = 1;
 nodes = (
 "424.401 235 LINE SMOOTH",
-"424.401 100 OFFCURVE",
+"424.401 107 OFFCURVE",
 "351.401 14 OFFCURVE",
 "229.401 14 CURVE SMOOTH",
 "139.401 14 OFFCURVE",
@@ -16146,9 +16143,9 @@ nodes = (
 "100.479 -9 OFFCURVE",
 "197.479 -9 CURVE SMOOTH",
 "255.479 -9 OFFCURVE",
-"299.479 17 OFFCURVE",
-"329.479 52 CURVE",
-"339.479 0 LINE"
+"292.479 17 OFFCURVE",
+"322.479 52 CURVE",
+"333.479 0 LINE"
 );
 },
 {
@@ -16229,8 +16226,8 @@ nodes = (
 "119.448 -7.875 OFFCURVE",
 "222.698 -7.875 CURVE SMOOTH",
 "304.448 -7.875 OFFCURVE",
-"357.573 31.375 OFFCURVE",
-"385.323 90.25 CURVE",
+"355.948 31.375 OFFCURVE",
+"383.698 90.25 CURVE",
 "389.698 0 LINE"
 );
 },
@@ -16238,7 +16235,7 @@ nodes = (
 closed = 1;
 nodes = (
 "383.698 223.75 LINE SMOOTH",
-"383.698 118.75 OFFCURVE",
+"383.698 132.75 OFFCURVE",
 "320.698 61.5 OFFCURVE",
 "236.198 61.5 CURVE SMOOTH",
 "172.448 61.5 OFFCURVE",
@@ -26357,7 +26354,7 @@ unicode = 00F5;
 },
 {
 glyphname = oe;
-lastChange = "2021-08-15 19:44:50 +0000";
+lastChange = "2021-08-17 06:47:01 +0000";
 layers = (
 {
 hints = (
@@ -26532,7 +26529,7 @@ nodes = (
 "901.7 488 OFFCURVE",
 "983.7 397 OFFCURVE",
 "976.7 261 CURVE",
-"535.7 260 LINE",
+"535.7 261 LINE",
 "535.7 241 LINE",
 "993.7 241 LINE",
 "996.7 258 OFFCURVE",
@@ -26728,7 +26725,7 @@ nodes = (
 "812.45 441.125 OFFCURVE",
 "878.2 377.625 OFFCURVE",
 "878.075 279.75 CURVE",
-"520.2 279.375 LINE",
+"520.2 279.75 LINE",
 "519.575 222.25 LINE",
 "955.7 222.25 LINE",
 "959.325 241.75 OFFCURVE",
@@ -51087,7 +51084,7 @@ unicode = 00AE;
 },
 {
 glyphname = trademark;
-lastChange = "2021-08-15 19:54:28 +0000";
+lastChange = "2021-08-17 06:51:28 +0000";
 layers = (
 {
 hints = (
@@ -51252,7 +51249,7 @@ closed = 1;
 nodes = (
 "15.884 604 LINE",
 "98.884 604 LINE",
-"97.884 355 LINE",
+"98.884 355 LINE",
 "224.884 355 LINE",
 "224.884 604 LINE",
 "307.884 604 LINE",
@@ -51270,7 +51267,7 @@ nodes = (
 "549.884 355 LINE",
 "634.884 355 LINE",
 "752.884 643 LINE",
-"713.884 646 LINE",
+"718.884 646 LINE",
 "718.884 355 LINE",
 "834.884 355 LINE",
 "834.884 706 LINE",
@@ -55554,7 +55551,7 @@ unicode = 00A3;
 },
 {
 glyphname = yen;
-lastChange = "2021-08-15 19:44:50 +0000";
+lastChange = "2021-08-17 06:53:17 +0000";
 layers = (
 {
 hints = (
@@ -55742,7 +55739,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"434.95 309 LINE",
+"432.95 310 LINE",
 "627.95 310 LINE",
 "627.95 428 LINE",
 "432.95 428 LINE"
@@ -55776,7 +55773,7 @@ nodes = (
 closed = 1;
 nodes = (
 "51.95 310 LINE",
-"287.95 309 LINE",
+"287.95 310 LINE",
 "288.95 428 LINE",
 "51.95 428 LINE"
 );

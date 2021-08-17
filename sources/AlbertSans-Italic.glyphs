@@ -14974,7 +14974,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2021-08-16 17:58:36 +0000";
+lastChange = "2021-08-17 06:55:58 +0000";
 layers = (
 {
 anchors = (
@@ -15130,7 +15130,7 @@ nodes = (
 closed = 1;
 nodes = (
 "420.455 235 LINE",
-"394.455 100 OFFCURVE",
+"395.98 105.194 OFFCURVE",
 "303.455 14 OFFCURVE",
 "181.455 14 CURVE SMOOTH",
 "91.455 14 OFFCURVE",
@@ -15285,7 +15285,7 @@ nodes = (
 closed = 1;
 nodes = (
 "377.671 223.75 LINE",
-"357.296 118.75 OFFCURVE",
+"358.823 129.793 OFFCURVE",
 "282.546 61.5 OFFCURVE",
 "198.671 61.5 CURVE SMOOTH",
 "134.296 61.5 OFFCURVE",
