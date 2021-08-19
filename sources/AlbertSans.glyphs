@@ -1,7 +1,8 @@
 {
 .appVersion = "3091";
 DisplayStrings = (
-A
+A,
+"ø"
 );
 classes = (
 {
@@ -26195,7 +26196,7 @@ unicode = 014D;
 },
 {
 glyphname = oslash;
-lastChange = "2021-08-15 19:44:50 +0000";
+lastChange = "2021-08-19 08:32:39 +0000";
 layers = (
 {
 components = (
@@ -26254,7 +26255,7 @@ closed = 1;
 nodes = (
 "129 126 LINE",
 "192 86 LINE",
-"482 404 LINE",
+"481 404 LINE",
 "419 444 LINE"
 );
 }
