@@ -33,7 +33,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://usted.github.io/Albert-Sans`.
+The proof files and QA tests are also available automatically via GitHub Actions - look at [https://usted.github.io/Albert-Sans](https://usted.github.io/Albert-Sans).
 
 ## Changelog
 
