@@ -44,6 +44,13 @@ Changelog example:
 **12 Aug 2021. Version 1.00**
 - Initial release
 
+
+**28 Aug 2021. Version 1.01**
+- Outline corrections
+- Stem corrections
+- Angle adjustments
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
