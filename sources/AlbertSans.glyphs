@@ -1,5 +1,19 @@
 {
 .appVersion = "3091";
+DisplayStrings = (
+"/.notdef",
+t,
+"æ",
+"/tcommaaccent",
+"Å",
+y,
+Q,
+"[",
+"`",
+"¹",
+"u/uring",
+a
+);
 copyright = "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)";
 customParameters = (
 {
@@ -36652,7 +36666,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2021-08-28 10:10:43 +0000";
+lastChange = "2021-08-29 12:10:59 +0000";
 layers = (
 {
 anchors = (
@@ -40052,7 +40066,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2021-08-28 10:10:43 +0000";
+lastChange = "2021-08-29 12:17:06 +0000";
 layers = (
 {
 anchors = (
@@ -40162,7 +40176,7 @@ nodes = (
 "247.5 25 LINE",
 "44.5 500 LINE",
 "22.5 500 LINE",
-"236.5 -2 LINE",
+"237.288 0 LINE",
 "158.5 -200 LINE",
 "181.5 -200 LINE",
 "454.5 500 LINE",
@@ -47112,7 +47126,7 @@ unicode = 0039;
 },
 {
 glyphname = onesuperior;
-lastChange = "2021-08-28 10:10:43 +0000";
+lastChange = "2021-08-29 12:21:11 +0000";
 layers = (
 {
 hints = (
@@ -47143,8 +47157,8 @@ closed = 1;
 nodes = (
 "82.309 350 LINE",
 "171.309 350 LINE",
-"171.309 701 LINE",
-"28.309 701 LINE",
+"171.309 700 LINE",
+"28.309 700 LINE",
 "28.309 636 LINE",
 "82.309 636 LINE"
 );
@@ -48974,6 +48988,110 @@ width = 694.07499;
 leftMetricsKey = "=H/3";
 rightMetricsKey = "=H/3";
 unicode = 00BE;
+},
+{
+glyphname = .notdef;
+lastChange = "2021-08-29 12:03:47 +0000";
+layers = (
+{
+layerId = "6E968933-CD79-43C6-9231-80D77C940F4D";
+paths = (
+{
+closed = 1;
+nodes = (
+"597 0 LINE",
+"597 700 LINE",
+"90 700 LINE",
+"90 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"170 630 LINE",
+"517 630 LINE",
+"517 70 LINE",
+"170 70 LINE"
+);
+}
+);
+width = 687;
+},
+{
+layerId = "9F107B1E-3A61-4335-981B-27DD48125C7E";
+paths = (
+{
+closed = 1;
+nodes = (
+"588 0 LINE",
+"588 700 LINE",
+"81 700 LINE",
+"81 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"161 630 LINE",
+"508 630 LINE",
+"508 70 LINE",
+"161 70 LINE"
+);
+}
+);
+width = 669;
+},
+{
+layerId = "0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE";
+paths = (
+{
+closed = 1;
+nodes = (
+"583.5 0 LINE",
+"583.5 700 LINE",
+"76.5 700 LINE",
+"76.5 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"156.5 630 LINE",
+"503.5 630 LINE",
+"503.5 70 LINE",
+"156.5 70 LINE"
+);
+}
+);
+width = 660;
+},
+{
+layerId = "BAF31694-0472-4296-B0EA-1654553C45D2";
+paths = (
+{
+closed = 1;
+nodes = (
+"556.5 0 LINE",
+"556.5 700 LINE",
+"49.5 700 LINE",
+"49.5 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"129.5 630 LINE",
+"476.5 630 LINE",
+"476.5 70 LINE",
+"129.5 70 LINE"
+);
+}
+);
+width = 606.01;
+}
+);
+leftMetricsKey = l;
+rightMetricsKey = l;
 },
 {
 glyphname = space;
@@ -71154,7 +71272,7 @@ unicode = 02D9;
 },
 {
 glyphname = grave;
-lastChange = "2021-08-28 10:10:43 +0000";
+lastChange = "2021-08-29 12:20:37 +0000";
 layers = (
 {
 anchors = (
@@ -71168,7 +71286,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"12.75 699 LINE",
+"12.75 700 LINE",
 "233.75 590 LINE",
 "233.75 674 LINE",
 "12.75 795 LINE"
