@@ -51,6 +51,13 @@ Changelog example:
 - Angle adjustments
 
 
+**30 Aug 2021. Version 1.02**
+- Updated outlines
+- Two new glyphs added
+- Spacing adjustments
+
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
