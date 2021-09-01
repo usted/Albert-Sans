@@ -1,8 +1,5 @@
 {
 .appVersion = "3091";
-DisplayStrings = (
-j
-);
 copyright = "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)";
 customParameters = (
 {
@@ -60683,20 +60680,20 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-interpolationWeight = 150;
+interpolationWeight = 144;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.625;
-"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.375;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.7;
+"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.3;
 };
 isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
 {
-interpolationWeight = 175;
+interpolationWeight = 172;
 instanceInterpolations = {
-"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.3125;
-"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.6875;
+"0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.35;
+"BAF31694-0472-4296-B0EA-1654553C45D2" = 0.65;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
