@@ -58,6 +58,10 @@ Changelog example:
 - Minor glyph width adjustments
 - Minor spacing adjustments
 
+**23 Sep 2021. Version 1.10**
+- Glyph width adjustments
+- New ampersand and alternates added
+
 
 
 ## License
