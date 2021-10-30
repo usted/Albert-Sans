@@ -6,4 +6,3 @@
 # Name or Organization <email address>
 
 Andreas Rasmussen <rasmussen2@gmail.com>
-Original Poppins design by Jonny Pinhorn

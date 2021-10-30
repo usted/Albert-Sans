@@ -12,11 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. Among them architects and designers like Knud V. Engelhardt (1882-1931), Gunnar Biilmann Petersen (1897-1968) and Thorvald Bindesbøll (1846-1908) who contributed to the foundation of scandinavian typedesign.
-
-Designed by the Danish type designer Andreas Rasmussen, Albert Sans was initially built on Latin portion of Poppins made by Jonny Pinhorn.
-
+Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. 
 The Albert Sans family includes ten weights from Thin to Black and supports the Latin Extended glyph set and other western european languages.
+
+Designed by the Danish type designer Andreas Rasmussen.
+
 
 
 ![Sample Image](documentation/image1.png)
