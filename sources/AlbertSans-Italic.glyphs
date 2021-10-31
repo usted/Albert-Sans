@@ -1,8 +1,5 @@
 {
 .appVersion = "3091";
-DisplayStrings = (
-A
-);
 copyright = "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)";
 customParameters = (
 {
