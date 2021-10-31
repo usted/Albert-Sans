@@ -8,6 +8,7 @@ from sh import git
 import re
 import sys
 from urllib.parse import quote
+import subprocess
 
 BASE_OWNER = "googlefonts"
 BASE_REPONAME = "Unified-Font-Repository"
@@ -46,7 +47,7 @@ try:
 except Exception as e:
     lose("Could not use git to find my own repository URL", e)
 
-m = re.match(r"https://github.com/(.*)/(.*)/?", str(my_repo_url))
+m = re.match(r"(?:https://github.com/|git@github.com:)(.*)/(.*)/?", str(my_repo_url))
 if not m:
     lose(
         f"My git repository URL ({my_repo_url}) didn't look what I expected - are you hosting this on github?"
@@ -67,6 +68,8 @@ if owner == BASE_OWNER and reponame == BASE_REPONAME:
 # googlefonts/Unified-Font-Repository itself. But downstream users want links
 # and badges about their own font, not ours! So any URLs need to be adjusted to
 # refer to the end user's repository.
+
+# We will also pin the dependencies so future builds are reproducible.
 
 readme = open("README.md").read()
 
@@ -89,6 +92,12 @@ readme = readme.replace(
 
 with open("README.md", "w") as fh:
     fh.write(readme)
+
+# Pin the dependencies
+print("Pinning dependencies")
+dependencies = subprocess.check_output(["pip", "freeze"])
+with open("requirements.txt", "wb") as dependency_file:
+    dependency_file.write(dependencies)
 
 # Finally, we add a "touch file" called ".init.stamp" to the repository which
 # prevents this first-run process from being run again.
