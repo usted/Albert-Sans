@@ -191,17 +191,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -412,17 +412,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -633,17 +633,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -858,17 +858,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -1055,17 +1055,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -1281,17 +1281,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -1502,17 +1502,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -1708,17 +1708,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -1954,17 +1954,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -2194,17 +2194,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -2421,17 +2421,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -2642,17 +2642,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -2856,17 +2856,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -3078,17 +3078,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -3298,17 +3298,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -3523,17 +3523,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -3768,17 +3768,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -4018,17 +4018,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -4239,17 +4239,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -4479,17 +4479,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -4666,17 +4666,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -4851,17 +4851,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5024,17 +5024,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5209,17 +5209,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5412,17 +5412,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5603,17 +5603,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5788,17 +5788,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -5959,17 +5959,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -6132,17 +6132,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -6301,17 +6301,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -6511,17 +6511,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -6722,17 +6722,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -6908,17 +6908,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -7092,17 +7092,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -7266,17 +7266,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -7451,17 +7451,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -7607,17 +7607,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
@@ -7752,17 +7752,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
- - indianrupee
  - ampersand.ss03
+ - g.ss01
+ - turkishlira
+ - quoteright.ss01
+ - indianrupee
+ - ampersand.ss02
  - ampersand.ss01
  - comma.ss01
- - quoteright.ss01
  - quotedblleft.ss01
- - turkishlira
- - quotedblright.ss01
+ - quotedblright.ss01 
  - quoteleft.ss01
- - ampersand.ss02 
- - g.ss01
  [code: unreachable-glyphs]
 
 </details>
