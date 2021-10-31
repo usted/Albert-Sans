@@ -1,10 +1,11 @@
 # The Albert Sans Font Project 
 
-[![][Fontbakery]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
-[![][Universal]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
-[![][GF Profile]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
-[![][Outline Correctness]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
-[![][Shaping]](https://usted.github.io/Albert-Sans/fontbakery-report.html)
+[![][Fontbakery]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Universal]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+
 
 [Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2Foverall.json
 [GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FGoogleFonts.json
