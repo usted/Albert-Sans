@@ -141,35 +141,35 @@ sub quoteleft by quoteleft.ss01;
 sub quoteright by quoteright.ss01;
 ";
 name = ss01;
-notes = "Name: Alternate PunctationName:	Alternate Punctation";
+notes = "Name: Alternate Punctation";
 },
 {
 automatic = 1;
 code = "sub g by g.ss02;
 ";
 name = ss02;
-notes = "Name: Alternate gName:	Alternate g";
+notes = "Name: Alternate g";
 },
 {
 automatic = 1;
 code = "sub ampersand by ampersand.ss03;
 ";
 name = ss03;
-notes = "Name: Alternate Ampersand 1Name:	Alternate Ampersand 1";
+notes = "Name: Alternate Ampersand 1";
 },
 {
 automatic = 1;
 code = "sub ampersand by ampersand.ss04;
 ";
 name = ss04;
-notes = "Name: Alternate Ampersand 2Name:	Alternate Ampersand 2";
+notes = "Name: Alternate Ampersand 2";
 },
 {
 automatic = 1;
 code = "sub ampersand by ampersand.ss05;
 ";
 name = ss05;
-notes = "Name: Alternate Ampersand 3Name:	Alternate Ampersand 3";
+notes = "Name: Alternate Ampersand 3";
 }
 );
 fontMaster = (
@@ -11753,7 +11753,7 @@ nodes = (
 );
 }
 );
-width = 582;
+width = 581;
 },
 {
 anchors = (
@@ -11807,7 +11807,7 @@ nodes = (
 );
 }
 );
-width = 546.00426;
+width = 544.00426;
 },
 {
 anchors = (
@@ -11868,7 +11868,7 @@ nodes = (
 );
 }
 );
-width = 604.00208;
+width = 611.00208;
 },
 {
 anchors = (
@@ -11922,7 +11922,7 @@ nodes = (
 );
 }
 );
-width = 570.99785;
+width = 573.99785;
 }
 );
 leftMetricsKey = S;
@@ -51045,7 +51045,7 @@ nodes = (
 );
 }
 );
-width = 582;
+width = 581;
 },
 {
 components = (
@@ -51091,7 +51091,7 @@ nodes = (
 );
 }
 );
-width = 545.99617;
+width = 543.99617;
 },
 {
 components = (
@@ -51137,7 +51137,7 @@ nodes = (
 );
 }
 );
-width = 604.00189;
+width = 611.00189;
 },
 {
 components = (
@@ -51183,7 +51183,7 @@ nodes = (
 );
 }
 );
-width = 571.00481;
+width = 574.00481;
 }
 );
 leftMetricsKey = S;
@@ -52173,7 +52173,7 @@ type = BottomGhost;
 }
 );
 layerId = "6E968933-CD79-43C6-9231-80D77C940F4D";
-width = 1006.07457;
+width = 993.07457;
 },
 {
 components = (
@@ -52291,7 +52291,7 @@ type = BottomGhost;
 }
 );
 layerId = "9F107B1E-3A61-4335-981B-27DD48125C7E";
-width = 1058.07422;
+width = 1053.07422;
 }
 );
 leftMetricsKey = R;
@@ -60990,16 +60990,6 @@ unicode = 02DB;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Thin";
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-}
-);
 interpolationWeight = 0;
 instanceInterpolations = {
 "6E968933-CD79-43C6-9231-80D77C940F4D" = 1;
@@ -61008,16 +60998,6 @@ name = Thin;
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans ExtraLight";
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-}
-);
 interpolationWeight = 21;
 instanceInterpolations = {
 "6E968933-CD79-43C6-9231-80D77C940F4D" = 0.72;
@@ -61027,16 +61007,6 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Light";
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-}
-);
 interpolationWeight = 50;
 instanceInterpolations = {
 "6E968933-CD79-43C6-9231-80D77C940F4D" = 0.33333;
@@ -61053,16 +61023,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Medium";
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-}
-);
 interpolationWeight = 102;
 instanceInterpolations = {
 "0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.6;
@@ -61072,16 +61032,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Semi";
-},
-{
-name = WWSSubfamilyName;
-value = Bold;
-}
-);
 interpolationWeight = 120;
 instanceInterpolations = {
 "0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 1;
@@ -61096,21 +61046,10 @@ instanceInterpolations = {
 "BAF31694-0472-4296-B0EA-1654553C45D2" = 0.25;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Extra";
-},
-{
-name = WWSSubfamilyName;
-value = Bold;
-}
-);
 interpolationWeight = 170;
 instanceInterpolations = {
 "0CF0EA28-C756-4A9E-9D7C-CFEF350B4CFE" = 0.375;
@@ -61120,16 +61059,6 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = WWSFamilyName;
-value = "Albert Sans Black";
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-}
-);
 interpolationWeight = 200;
 instanceInterpolations = {
 "BAF31694-0472-4296-B0EA-1654553C45D2" = 1;
