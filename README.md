@@ -49,19 +49,25 @@ Changelog example:
 - Stem corrections
 - Angle adjustments
 
-
 **30 Aug 2021. Version 1.02**
 - Updated outlines
 - Two new glyphs added
 - Spacing adjustments
 
-**2 Sep 2021. Version 1.03**
+**02 Sep 2021. Version 1.03**
 - Minor glyph width adjustments
 - Minor spacing adjustments
 
 **23 Sep 2021. Version 1.10**
 - Glyph width adjustments
 - New ampersand and alternates added
+
+**06 Nov 2021. Version 1.11**
+- Fixed a, s, S
+- Improved OT features
+
+
+
 
 
 
