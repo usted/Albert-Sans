@@ -9,4 +9,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Andreas Rasmussen <rasmussen2@gmail.com>
+Andreas Rasmussen <mail@a-foundry.net>
