@@ -14,10 +14,9 @@
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. 
-The Albert Sans family includes ten weights from Thin to Black and supports the Latin Extended glyph set and other western european languages.
+The Albert Sans family includes ten weights from Thin to Black and supports over two hundred languages.
 
-Designed by the Danish type designer Andreas Rasmussen.
-
+Designed by the Danish type designer Andreas Rasmussen from a.Foundry.
 
 
 ![Sample Image](documentation/image1.png)
@@ -65,6 +64,10 @@ Changelog example:
 **06 Nov 2021. Version 1.11**
 - Fixed a, s, S
 - Improved OT features
+
+**20 Nov 2021. Version 1.20**
+- Minor weight adjustments
+- A variety of new glyphs to support more languages 
 
 
 
