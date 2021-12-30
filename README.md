@@ -42,7 +42,6 @@ Changelog example:
 **12 Aug 2021. Version 1.00**
 - Initial release
 
-
 **28 Aug 2021. Version 1.01**
 - Outline corrections
 - Stem corrections
@@ -68,6 +67,9 @@ Changelog example:
 **20 Nov 2021. Version 1.20**
 - Minor weight adjustments
 - A variety of new glyphs to support more languages 
+
+**30 Dec 2021. Version 1.21**
+- Updated kerning
 
 
 
