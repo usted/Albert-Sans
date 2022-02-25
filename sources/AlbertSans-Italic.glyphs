@@ -117622,7 +117622,7 @@ unicode = 0023;
 },
 {
 glyphname = slash;
-lastChange = "2022-02-25 08:14:39 +0000";
+lastChange = "2022-02-25 09:30:16 +0000";
 layers = (
 {
 hints = (
@@ -117644,14 +117644,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-29.511 -100 LINE",
-"82.489 -100 LINE",
-"502.511 800 LINE",
-"389.511 800 LINE"
+"-69.621 -100 LINE",
+"42.379 -100 LINE",
+"462.401 800 LINE",
+"349.401 800 LINE"
 );
 }
 );
-width = 476.75;
+width = 353;
 },
 {
 hints = (
@@ -117673,14 +117673,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-89.511 -100 LINE",
-"-67.511 -100 LINE",
-"352.511 800 LINE",
-"329.511 800 LINE"
+"-69.621 -100 LINE",
+"-47.621 -100 LINE",
+"372.401 800 LINE",
+"349.401 800 LINE"
 );
 }
 );
-width = 263.00438;
+width = 262.99438;
 },
 {
 hints = (
@@ -117702,14 +117702,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-45.511 -100 LINE",
-"124.489 -100 LINE",
-"544.511 800 LINE",
-"374.511 800 LINE"
+"-69.621 -100 LINE",
+"100.379 -100 LINE",
+"520.401 800 LINE",
+"350.401 800 LINE"
 );
 }
 );
-width = 501.75429;
+width = 410.99429;
 },
 {
 hints = (
@@ -117731,14 +117731,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-21.511 -100 LINE",
-"56.489 -100 LINE",
-"476.511 800 LINE",
-"396.511 800 LINE"
+"-69.621 -100 LINE",
+"8.379 -100 LINE",
+"428.401 800 LINE",
+"348.401 800 LINE"
 );
 }
 );
-width = 459.25483;
+width = 318.99483;
 },
 {
 associatedMasterId = "6E968933-CD79-43C6-9231-80D77C940F4D";
@@ -117817,11 +117817,13 @@ nodes = (
 width = 501.75429;
 }
 );
+leftMetricsKey = "=H*0";
+rightMetricsKey = "=H*0";
 unicode = 002F;
 },
 {
 glyphname = backslash;
-lastChange = "2022-02-25 08:14:39 +0000";
+lastChange = "2022-02-25 09:30:16 +0000";
 layers = (
 {
 hints = (
@@ -117843,14 +117845,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"351.511 800 LINE",
-"239.511 800 LINE",
-"301.489 -100 LINE",
-"413.489 -100 LINE"
+"221.401 800 LINE",
+"109.401 800 LINE",
+"171.379 -100 LINE",
+"283.379 -100 LINE"
 );
 }
 );
-width = 638;
+width = 353;
 },
 {
 hints = (
@@ -117872,10 +117874,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"114.511 800 LINE",
-"89.511 800 LINE",
-"153.489 -100 LINE",
-"176.489 -100 LINE"
+"134.401 800 LINE",
+"109.401 800 LINE",
+"173.379 -100 LINE",
+"196.379 -100 LINE"
 );
 }
 );
@@ -117901,14 +117903,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"368.511 800 LINE",
-"199.511 800 LINE",
-"261.489 -100 LINE",
-"431.489 -100 LINE"
+"278.401 800 LINE",
+"109.401 800 LINE",
+"171.379 -100 LINE",
+"341.379 -100 LINE"
 );
 }
 );
-width = 620.00378;
+width = 410.99378;
 },
 {
 hints = (
@@ -117930,14 +117932,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"338.511 800 LINE",
-"259.511 800 LINE",
-"321.489 -100 LINE",
-"400.489 -100 LINE"
+"188.401 800 LINE",
+"109.401 800 LINE",
+"171.379 -100 LINE",
+"250.379 -100 LINE"
 );
 }
 );
-width = 643.00083;
+width = 320.00083;
 },
 {
 associatedMasterId = "6E968933-CD79-43C6-9231-80D77C940F4D";
@@ -118008,6 +118010,8 @@ nodes = (
 width = 620.00378;
 }
 );
+leftMetricsKey = "=H*0";
+rightMetricsKey = "=H*0";
 unicode = 005C;
 },
 {
@@ -138620,7 +138624,7 @@ unicode = 00A5;
 },
 {
 glyphname = divisionslash;
-lastChange = "2022-02-25 08:14:39 +0000";
+lastChange = "2022-02-25 09:30:16 +0000";
 layers = (
 {
 hints = (
@@ -138642,14 +138646,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-32.119 0 LINE",
-"80.881 0 LINE",
-"600.119 700 LINE",
-"487.119 700 LINE"
+"-49.729 0 LINE",
+"63.271 0 LINE",
+"582.509 700 LINE",
+"469.509 700 LINE"
 );
 }
 );
-width = 568;
+width = 493;
 },
 {
 hints = (
@@ -138671,10 +138675,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-69.619 0 LINE",
-"-43.619 0 LINE",
-"475.619 700 LINE",
-"449.619 700 LINE"
+"-49.729 0 LINE",
+"-23.729 0 LINE",
+"495.509 700 LINE",
+"469.509 700 LINE"
 );
 }
 );
@@ -138700,14 +138704,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-42.119 0 LINE",
-"127.881 0 LINE",
-"647.119 700 LINE",
-"477.119 700 LINE"
+"-49.729 0 LINE",
+"120.271 0 LINE",
+"639.509 700 LINE",
+"469.509 700 LINE"
 );
 }
 );
-width = 604.99585;
+width = 549.99585;
 },
 {
 hints = (
@@ -138729,14 +138733,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-27.119 0 LINE",
-"53.881 0 LINE",
-"573.119 700 LINE",
-"492.119 700 LINE"
+"-49.729 0 LINE",
+"31.271 0 LINE",
+"550.509 700 LINE",
+"469.509 700 LINE"
 );
 }
 );
-width = 546.00092;
+width = 461.00092;
 },
 {
 associatedMasterId = "6E968933-CD79-43C6-9231-80D77C940F4D";
@@ -138815,6 +138819,8 @@ nodes = (
 width = 604.99585;
 }
 );
+leftMetricsKey = "=H*0";
+rightMetricsKey = "=H*0";
 unicode = 2215;
 },
 {
