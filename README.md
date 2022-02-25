@@ -70,7 +70,9 @@ Changelog example:
 
 **30 Dec 2021. Version 1.21**
 - Updated kerning
-
+ 
+**25 Feb 2022. Version 1.22**
+- Minor adjustments
 
 
 
