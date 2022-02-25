@@ -69,6 +69,9 @@ Changelog example:
 - Minor weight adjustments
 - A variety of new glyphs to support more languages 
 
+**25 Feb 2022. Version 1.22**
+- Minor adjustments
+
 
 
 
