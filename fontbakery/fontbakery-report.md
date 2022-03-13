@@ -205,10 +205,10 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 	* at (U+0040) contains a short segment L<<684.0,426.0>--<717.0,426.0>>
 	* M (U+004D) contains a short segment L<<382.0,0.0>--<351.0,0.0>>
 	* R (U+0052) contains a short segment B<<332.0,300.0>-<327.0,300.0>-<322.0,300.0>>
-	* paragraph (U+00B6) contains a short segment L<<296.0,309.0>--<293.0,309.0>>
-	* Ccedilla (U+00C7) contains a short segment L<<332.0,-7.0>--<329.0,-7.0>>
-	* ae (U+00E6) contains a short segment B<<874.0,286.0>-<873.0,278.0>-<871.0,267.0>>
-	* ae (U+00E6) contains a short segment B<<871.0,267.0>-<869.0,256.0>-<865.0,243.0>> and 28 more. [code: found-short-segments]
+	* yen (U+00A5) contains a short segment L<<323.0,355.0>--<342.0,355.0>>
+	* yen (U+00A5) contains a short segment L<<316.0,324.0>--<317.0,325.0>>
+	* yen (U+00A5) contains a short segment L<<317.0,325.0>--<316.0,325.0>>
+	* yen (U+00A5) contains a short segment L<<316.0,325.0>--<316.0,324.0>> and 32 more. [code: found-short-segments]
 
 </details>
 <details>
@@ -1021,8 +1021,8 @@ than 100 reported misalignments.</pre>
 	* onequarter (U+00BC): X=183.0,Y=699.0 (should be at cap-height 700?)
 	* onehalf (U+00BD): X=23.0,Y=699.0 (should be at cap-height 700?)
 	* onehalf (U+00BD): X=183.0,Y=699.0 (should be at cap-height 700?)
-	* onehalf (U+00BD): X=688.0,Y=-1.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=404.0,Y=-1.0 (should be at baseline 0?) and 24 more. [code: found-misalignments]
+	* onehalf (U+00BD): X=684.0,Y=-1.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=400.0,Y=-1.0 (should be at baseline 0?) and 24 more. [code: found-misalignments]
 
 </details>
 <details>
@@ -1039,8 +1039,8 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 	* parenleft (U+0028) contains a short segment L<<405.0,800.0>--<405.0,790.0>>
 	* parenright (U+0029) contains a short segment L<<57.0,-100.0>--<57.0,-90.0>>
-	* yen (U+00A5) contains a short segment L<<258.0,232.0>--<258.0,245.0>>
-	* yen (U+00A5) contains a short segment L<<393.0,246.0>--<393.0,232.0>>
+	* yen (U+00A5) contains a short segment L<<285.0,232.0>--<285.0,245.0>>
+	* yen (U+00A5) contains a short segment L<<420.0,246.0>--<420.0,232.0>>
 	* paragraph (U+00B6) contains a short segment L<<289.0,281.0>--<271.0,281.0>>
 	* germandbls (U+00DF) contains a short segment B<<415.5,391.0>-<406.0,381.0>-<406.0,371.0>>
 	* Aogonek (U+0104) contains a short segment L<<676.0,0.0>--<676.0,0.0>>
@@ -1239,8 +1239,8 @@ than 100 reported misalignments.</pre>
 	* onequarter (U+00BC): X=273.0,Y=699.0 (should be at cap-height 700?)
 	* onehalf (U+00BD): X=112.0,Y=699.0 (should be at cap-height 700?)
 	* onehalf (U+00BD): X=273.0,Y=699.0 (should be at cap-height 700?)
-	* onehalf (U+00BD): X=638.0,Y=-1.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=354.0,Y=-1.0 (should be at baseline 0?) and 44 more. [code: found-misalignments]
+	* onehalf (U+00BD): X=634.0,Y=-1.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=350.0,Y=-1.0 (should be at baseline 0?) and 44 more. [code: found-misalignments]
 
 </details>
 <details>
@@ -1257,8 +1257,8 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 	* parenleft (U+0028) contains a short segment L<<514.0,800.0>--<512.0,790.0>>
 	* parenright (U+0029) contains a short segment L<<-13.0,-100.0>--<-11.0,-90.0>>
-	* yen (U+00A5) contains a short segment L<<255.0,232.0>--<257.0,245.0>>
-	* yen (U+00A5) contains a short segment L<<392.0,246.0>--<390.0,232.0>>
+	* yen (U+00A5) contains a short segment L<<281.0,232.0>--<284.0,245.0>>
+	* yen (U+00A5) contains a short segment L<<419.0,246.0>--<416.0,232.0>>
 	* paragraph (U+00B6) contains a short segment L<<295.0,281.0>--<278.0,281.0>>
 	* Aogonek (U+0104) contains a short segment L<<627.0,0.0>--<627.0,0.0>>
 	* aogonek (U+0105) contains a short segment L<<431.0,0.0>--<420.0,0.0>>
@@ -1660,8 +1660,8 @@ than 100 reported misalignments.</pre>
 	* t (U+0074): X=207.0,Y=-0.5 (should be at baseline 0?)
 	* acute (U+00B4): X=99.0,Y=702.0 (should be at cap-height 700?)
 	* uni00B5 (U+00B5): X=229.0,Y=-1.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=665.0,Y=-2.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=367.0,Y=-2.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=661.0,Y=-2.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=363.0,Y=-2.0 (should be at baseline 0?)
 	* Aogonek (U+0104): X=647.0,Y=-1.0 (should be at baseline 0?)
 	* Iogonek (U+012E): X=240.0,Y=2.0 (should be at baseline 0?) and 14 more. [code: found-misalignments]
 
@@ -2040,11 +2040,13 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 
 The following glyphs do not have the recommended number of contours:
 
+ - Glyph name: yen	Contours detected: 3	Expected: 1 or 2
  - Glyph name: uni00AD	Contours detected: 1	Expected: 0
  - Glyph name: uni2113	Contours detected: 1	Expected: 2
  - Glyph name: fi	Contours detected: 2	Expected: 3
- - Glyph name: uni00AD	Contours detected: 1	Expected: 0 
- - Glyph name: uni2113	Contours detected: 1	Expected: 2
+ - Glyph name: uni00AD	Contours detected: 1	Expected: 0
+ - Glyph name: uni2113	Contours detected: 1	Expected: 2 
+ - Glyph name: yen	Contours detected: 3	Expected: 1 or 2
  [code: contour-count]
 
 </details>
@@ -2285,14 +2287,14 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 	* parenleft (U+0028) contains a short segment L<<336.0,800.0>--<336.0,795.0>>
 	* parenright (U+0029) contains a short segment L<<62.0,-100.0>--<62.0,-94.0>>
+	* yen (U+00A5) contains a short segment L<<314.0,335.0>--<321.0,347.0>>
+	* yen (U+00A5) contains a short segment L<<321.0,347.0>--<325.0,367.0>>
+	* yen (U+00A5) contains a short segment L<<325.0,367.0>--<333.0,367.0>>
 	* paragraph (U+00B6) contains a short segment L<<286.0,302.0>--<280.0,302.0>>
 	* ae (U+00E6) contains a short segment B<<859.0,279.0>-<859.0,269.0>-<859.0,257.5>>
 	* aogonek (U+0105) contains a short segment L<<459.0,0.0>--<449.0,0.0>>
 	* Iogonek (U+012E) contains a short segment L<<149.0,0.0>--<147.0,0.0>>
-	* iogonek (U+012F) contains a short segment L<<152.0,0.0>--<142.0,0.0>>
-	* uni0162 (U+0162) contains a short segment L<<280.0,0.0>--<271.0,0.0>>
-	* uni0162 (U+0162) contains a short segment L<<332.0,0.0>--<324.0,0.0>>
-	* uni0163 (U+0163) contains a short segment B<<241.0,0.0>-<233.0,0.0>-<226.0,0.0>> and 4 more. [code: found-short-segments]
+	* iogonek (U+012F) contains a short segment L<<152.0,0.0>--<142.0,0.0>> and 7 more. [code: found-short-segments]
 
 </details>
 <details>
@@ -2520,10 +2522,10 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 	* at (U+0040) contains a short segment L<<649.0,426.0>--<682.0,426.0>>
 	* M (U+004D) contains a short segment L<<431.0,0.0>--<400.0,0.0>>
 	* R (U+0052) contains a short segment B<<322.0,300.0>-<317.0,300.0>-<312.0,300.0>>
-	* paragraph (U+00B6) contains a short segment L<<285.0,309.0>--<281.0,309.0>>
-	* Ccedilla (U+00C7) contains a short segment L<<383.0,-7.0>--<380.0,-7.0>>
-	* ae (U+00E6) contains a short segment B<<867.0,286.0>-<867.0,278.0>-<867.5,267.0>>
-	* ae (U+00E6) contains a short segment B<<867.5,267.0>-<868.0,256.0>-<866.0,243.0>> and 20 more. [code: found-short-segments]
+	* yen (U+00A5) contains a short segment L<<296.0,333.0>--<303.0,355.0>>
+	* yen (U+00A5) contains a short segment L<<303.0,355.0>--<321.0,355.0>>
+	* yen (U+00A5) contains a short segment L<<302.0,324.0>--<302.0,325.0>>
+	* yen (U+00A5) contains a short segment L<<302.0,325.0>--<301.0,325.0>> and 25 more. [code: found-short-segments]
 
 </details>
 <details>
@@ -2538,7 +2540,8 @@ by manual inspection.</pre>
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 	* eogonek (U+0119): L<<266.0,-7.0>--<267.0,-7.0>>/B<<267.0,-7.0>-<202.0,-3.0>-<153.5,31.5>> = 3.521453376922158
-	* eth (U+00F0): B<<418.5,474.0>-<475.0,441.0>-<503.0,363.0>>/B<<503.0,363.0>-<491.0,433.0>-<460.5,490.5>> = 10.019258054024496 and partialdiff (U+2202): B<<432.5,443.5>-<456.0,407.0>-<461.0,340.0>>/B<<461.0,340.0>-<462.0,414.0>-<454.5,479.0>> = 5.042113465218838 [code: found-jaggy-segments]
+	* eth (U+00F0): B<<418.5,474.0>-<475.0,441.0>-<503.0,363.0>>/B<<503.0,363.0>-<491.0,433.0>-<460.5,490.5>> = 10.019258054024496
+	* partialdiff (U+2202): B<<432.5,443.5>-<456.0,407.0>-<461.0,340.0>>/B<<461.0,340.0>-<462.0,414.0>-<454.5,479.0>> = 5.042113465218838 and yen (U+00A5): L<<282.0,287.0>--<244.0,350.0>>/L<<244.0,350.0>--<252.0,325.0>> = 13.352641260722505 [code: found-jaggy-segments]
 
 </details>
 <details>
@@ -2913,6 +2916,7 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 
 The following glyphs do not have the recommended number of contours:
 
+ - Glyph name: yen	Contours detected: 3	Expected: 1 or 2
  - Glyph name: uni00AD	Contours detected: 1	Expected: 0
  - Glyph name: OE	Contours detected: 3	Expected: 2
  - Glyph name: oe	Contours detected: 4	Expected: 3
@@ -2922,8 +2926,9 @@ The following glyphs do not have the recommended number of contours:
  - Glyph name: OE	Contours detected: 3	Expected: 2
  - Glyph name: fi	Contours detected: 2	Expected: 3
  - Glyph name: oe	Contours detected: 4	Expected: 3
- - Glyph name: uni00AD	Contours detected: 1	Expected: 0 
- - Glyph name: uni2113	Contours detected: 1	Expected: 2
+ - Glyph name: uni00AD	Contours detected: 1	Expected: 0
+ - Glyph name: uni2113	Contours detected: 1	Expected: 2 
+ - Glyph name: yen	Contours detected: 3	Expected: 1 or 2
  [code: contour-count]
 
 </details>
@@ -3186,8 +3191,8 @@ than 100 reported misalignments.</pre>
 	* grave (U+0060): X=245.0,Y=702.0 (should be at cap-height 700?)
 	* acute (U+00B4): X=9.0,Y=702.0 (should be at cap-height 700?)
 	* uni00B5 (U+00B5): X=279.0,Y=-1.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=715.0,Y=-2.0 (should be at baseline 0?)
-	* onehalf (U+00BD): X=417.0,Y=-2.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=711.0,Y=-2.0 (should be at baseline 0?)
+	* onehalf (U+00BD): X=413.0,Y=-2.0 (should be at baseline 0?)
 	* Aogonek (U+0104): X=697.0,Y=-1.0 (should be at baseline 0?)
 	* Iogonek (U+012E): X=216.0,Y=2.0 (should be at baseline 0?)
 	* Iogonek (U+012E): X=217.0,Y=1.0 (should be at baseline 0?) and 9 more. [code: found-misalignments]
@@ -3621,14 +3626,14 @@ positives, it will pass if there are more than 100 reported short segments.</pre
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 	* parenleft (U+0028) contains a short segment L<<446.0,800.0>--<445.0,795.0>>
 	* parenright (U+0029) contains a short segment L<<-8.0,-100.0>--<-6.0,-94.0>>
+	* yen (U+00A5) contains a short segment L<<331.0,335.0>--<340.0,347.0>>
+	* yen (U+00A5) contains a short segment L<<340.0,347.0>--<349.0,367.0>>
+	* yen (U+00A5) contains a short segment L<<349.0,367.0>--<356.0,367.0>>
 	* paragraph (U+00B6) contains a short segment L<<297.0,302.0>--<290.0,302.0>>
 	* ae (U+00E6) contains a short segment B<<865.0,279.0>-<863.0,269.0>-<860.5,257.5>>
 	* Aogonek (U+0104) contains a short segment L<<594.0,0.0>--<575.0,0.0>>
 	* aogonek (U+0105) contains a short segment L<<409.0,0.0>--<399.0,0.0>>
-	* Iogonek (U+012E) contains a short segment L<<217.0,0.0>--<215.0,0.0>>
-	* iogonek (U+012F) contains a short segment L<<179.0,0.0>--<169.0,0.0>>
-	* Eng (U+014A) contains a short segment L<<559.0,0.0>--<559.0,0.0>>
-	* Eng (U+014A) contains a short segment L<<559.0,0.0>--<557.0,-8.0>> and 11 more. [code: found-short-segments]
+	* Iogonek (U+012E) contains a short segment L<<217.0,0.0>--<215.0,0.0>> and 14 more. [code: found-short-segments]
 
 </details>
 <details>
