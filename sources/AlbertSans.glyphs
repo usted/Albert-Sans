@@ -29664,7 +29664,7 @@ unicode = 1EBD;
 },
 {
 glyphname = schwa;
-lastChange = "2022-03-13 12:04:54 +0000";
+lastChange = "2022-03-13 12:44:26 +0000";
 layers = (
 {
 components = (
@@ -29690,7 +29690,7 @@ width = 553.95702;
 components = (
 {
 name = e;
-transform = "{-1, 0, 0, -1, 557.401, 500}";
+transform = "{-1, 0, 0, -1, 557.411, 500}";
 }
 );
 layerId = "BAF31694-0472-4296-B0EA-1654553C45D2";
@@ -94613,5 +94613,5 @@ O,
 };
 };
 versionMajor = 1;
-versionMinor = 220;
+versionMinor = 230;
 }
