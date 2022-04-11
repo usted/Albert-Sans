@@ -5,13 +5,15 @@
 # skip down to the section headed "INITIALIZATION STEPS".
 
 from sh import git
+import datetime
 import re
 import sys
 from urllib.parse import quote
 import subprocess
 
 BASE_OWNER = "googlefonts"
-BASE_REPONAME = "Unified-Font-Repository"
+BASE_REPONAME = "googlefonts-project-template"
+DUMMY_URL = "https://yourname.github.io/your-font-repository-name"
 
 
 def repo_url(owner, name):
@@ -76,6 +78,7 @@ readme = open("README.md").read()
 print(
     "Fixing URLs:", web_url(BASE_OWNER, BASE_REPONAME), "->", web_url(owner, reponame)
 )
+
 readme = readme.replace(web_url(BASE_OWNER, BASE_REPONAME), web_url(owner, reponame))
 # In the badges, the URLs to raw.githubusercontent.com are URL-encoded as they
 # are passed to shields.io.
@@ -90,8 +93,28 @@ readme = readme.replace(
     quote(raw_url(owner, reponame), safe=""),
 )
 
+print(
+    "Fixing URLs:",
+    DUMMY_URL,
+    "->",
+    web_url(owner, reponame),
+)
+readme = readme.replace(
+    f"`{DUMMY_URL}`",
+    web_url(owner, reponame),
+)
+
 with open("README.md", "w") as fh:
     fh.write(readme)
+
+# Fix the OFL
+
+ofl = open("OFL.txt").read()
+ofl = ofl.replace(web_url(BASE_OWNER, BASE_REPONAME), web_url(owner, reponame))
+ofl = ofl.replace("My Font", reponame.title())
+ofl = ofl.replace("20**", str(datetime.date.today().year))
+with open("OFL.txt", "w") as fh:
+    fh.write(ofl)
 
 # Pin the dependencies
 print("Pinning dependencies")
