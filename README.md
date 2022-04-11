@@ -74,6 +74,14 @@ Changelog example:
 **25 Feb 2022. Version 1.22**
 - Minor adjustments
 
+**13 Mar 2022. Version 1.23**
+- Minor adjustments
+
+**11 Apr 2022. Version 1.24**
+- Minor adjustments
+
+
+
 
 
 
