@@ -2,7 +2,7 @@
 
 # This script is run the first time any action is performed after the repository
 # is cloned. If you are reading this because the automatic initialization failed,
-# skip down to the section headed "INITIALIZATION STEPS". 
+# skip down to the section headed "INITIALIZATION STEPS".
 
 from sh import git
 import datetime
