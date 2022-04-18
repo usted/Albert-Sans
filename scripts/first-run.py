@@ -11,9 +11,9 @@ import sys
 from urllib.parse import quote
 import subprocess
 
-BASE_OWNER = "googlefonts"
-BASE_REPONAME = "googlefonts-project-template"
-DUMMY_URL = "https://yourname.github.io/your-font-repository-name"
+BASE_OWNER = "usted"
+BASE_REPONAME = "Albert-Sans"
+DUMMY_URL = "https://usted.github.io/Albert-Sans"
 
 
 def repo_url(owner, name):
