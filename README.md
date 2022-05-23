@@ -80,6 +80,9 @@ Changelog example:
 **11 Apr 2022. Version 1.24**
 - Minor adjustments
 
+**23 May 2022. Version 1.25**
+- Minor adjustments
+
 
 
 
