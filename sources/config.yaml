@@ -1,15 +1,13 @@
 sources:
   - AlbertSans-Roman.glyphs
   - AlbertSans-Italic.glyphs
-outputDir: "gftools_ttf"
 axisOrder:
   - wght
   - wdth
   - ital
-familyName: Albert Sans
-buildStatic: false
+familyName: "Albert Sans"
 stat:
-  AlbertSansRomanVF.ttf:
+  AlbertSans[wdth,wght].ttf:
   - name: Weight
     tag: wght
     values:
@@ -48,7 +46,7 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  AlbertSansItalicVF.ttf:
+  AlbertSansItalic[wdth,wght].ttf:
   - name: Weight
     tag: wght
     values:
