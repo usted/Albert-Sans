@@ -84,6 +84,13 @@ Changelog example:
 - Minor adjustments
 
 
+**28 Dec 2023. Version 1.3**
+- Spacing adjustments
+- Improved kerning
+- Lots of new glyphs, including tabular numbers
+- Glyphs adjustments
+
+
 
 
 

@@ -1,8 +1,9 @@
 sources:
-  - AlbertSans.glyphs
+  - AlbertSans-Roman.glyphs
   - AlbertSans-Italic.glyphs
 axisOrder:
   - wght
+  - wdth
   - ital
 familyName: "Albert Sans"
 stat:
@@ -30,6 +31,14 @@ stat:
         value: 800
       - name: Black
         value: 900
+    - name: Width
+        tag: wdth
+        values:
+        - name: SemiCondensed
+          value: 87.5
+        - name: Normal
+          value: 100
+          flags: 2
     - name: Italic
       tag: ital
       values:
@@ -61,6 +70,14 @@ stat:
         value: 800
       - name: Black
         value: 900
+    - name: Width
+        tag: wdth
+        values:
+        - name: SemiCondensed
+          value: 87.5
+        - name: Normal
+          value: 100
+          flags: 2
     - name: Italic
       tag: ital
       values:
