@@ -89,6 +89,7 @@ Changelog example:
 - Improved kerning
 - Lots of new glyphs, including tabular numbers
 - Glyphs adjustments
+- New Width-axis with SemiCondensed
 
 
 
