@@ -1,6 +1,10 @@
 sources:
   - AlbertSans-Roman.glyphs
   - AlbertSans-Italic.glyphs
+axisOrder:
+  - wdth
+  - wght
+  - ital
 familyName: Albert Sans
 stat:
   AlbertSans[wdth,wght].ttf:
