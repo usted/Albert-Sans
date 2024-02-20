@@ -1,0 +1,2 @@
+[console_scripts]
+fontbakery = fontbakery.cli:main

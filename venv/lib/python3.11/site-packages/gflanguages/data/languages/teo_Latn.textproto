@@ -1,0 +1,13 @@
+id: "teo_Latn"
+language: "teo"
+script: "Latn"
+name: "Teso"
+autonym: "Ateso"
+population: 2082973
+region: "KE"
+region: "UG"
+exemplar_chars {
+  base: "a A b B c C d D e E g G h H i I j J k K l L m M n N o O p P r R s S t T u U v V w W x X y Y"
+  auxiliary: "f F q Q z Z"
+  index: "A B C D E G H I J K L M N O P R S T U V W X Y"
+}

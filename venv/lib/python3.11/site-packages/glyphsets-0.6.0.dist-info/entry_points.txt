@@ -1,0 +1,2 @@
+[console_scripts]
+glyphsets = glyphsets.__main__:main

@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: fontFeatures
+Version: 1.7.4
+Summary: Python library for manipulating OpenType font features
+Home-page: https://github.com/simoncozens/fontFeatures
+Author: Simon Cozens
+Author-email: simon@simon-cozens.org
+License: MIT
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 4 - Beta
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: glyphtools (>=0.7.0)
+Requires-Dist: fs
+Requires-Dist: fontTools (>=4.28.0)
+Requires-Dist: beziers (>=0.1.0)
+Requires-Dist: lxml
+Provides-Extra: shaper
+Requires-Dist: youseedee (>=0.3.0) ; extra == 'shaper'
+Requires-Dist: babelfont (>=3.0.0a1) ; extra == 'shaper'
+Requires-Dist: dataclasses ; (python_version < "3.7") and extra == 'shaper'
+
+## `fontFeatures` library
+
+*If you're looking for the FEE language, it has been renamed to FEZ and moved to its own library (fez).*
+
+OpenType fonts are "programmed" using features, which are normally authored in Adobe's [feature file format](http://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html). This like source code to a computer program: it's a user-friendly, but computer-unfriendly, way to represent the features.
+
+Inside a font, the features are compiled in an efficient [internal format](https://simoncozens.github.io/fonts-and-layout/features.html#how-features-are-stored). This is like the binary of a computer program: computers can use it, but they can't do else anything with it, and people can't read it.
+
+The purpose of this library is to provide a middle ground for representing features in a machine-manipulable format, kind of like the abstract syntax tree of a computer programmer. This is so that:
+
+* features can be represented in a structured human-readable *and* machine-readable way, analogous to the XML files of the [Unified Font Object](http://unifiedfontobject.org/) format.
+* features can be more directly authored by programs (such as font editors), rather than them having to output AFDKO feature file format.
+* features can be easily manipulated by programs - for example, features from two files merged together, or lookups moved between languages.
+
+> How is this different from fontTool's `feaLib`? I'm glad you asked. `feaLib` translates between the Adobe feature file format and a abstract syntax tree representing *elements of the feature file* - not representing the feature data. The AST is still "source equivalent". For example, when you code an `aalt` feature in feature file format, you might include code like `feature salt` to include lookups from another feature. But what's actually *meant* by that is a set of lookups. `fontFeatures` allows you to manipulate meaning, not description.
+
+### Components
+
+fontFeatures consists of the following components:
+
+* `fontFeatures` itself, which is an abstract representation of the different layout operations inside a font.
+* `fontFeatures.feaLib` (included as a mixin) which translates between Adobe feature syntax and fontFeatures representation.
+* `fontFeatures.ttLib`, which translates between OpenType binary fonts and fontFeatures representation. (Currently only OTF -> `fontFeatures` is partially implemented; there is no `fontFeatures` -> OTF compiler yet.)
+* `fontFeatures.fontDameLib` which translate FontDame text files into fontFeatures objects.
+
+And the following utilities:
+
+* `otf2fea`: translates an OTF file into Adobe features syntax.
+* `txt2fea`: translates a FontDame txt file into Adobe features syntax.
