@@ -1,5 +1,5 @@
 {
-.appVersion = "3231";
+.appVersion = "3241";
 .formatVersion = 3;
 DisplayStrings = (
 "HOHHAVHHOH
@@ -260728,7 +260728,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)";
+value = "Copyright 2024 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)";
 }
 );
 },
