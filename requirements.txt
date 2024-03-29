@@ -1,7 +1,7 @@
-fontmake>=2.4
-gftools[qa]>=0.9.23
-drawbot-skia>=0.4.8
-sh>=1.14.2
-bumpfontversion>=0.2.0
-diffenator2>=0.2.5
+fontmake>=3.9.0
+gftools[qa]>=0.9.52
+drawbot-skia>=0.5.0
+sh>=2.0.6
+bumpfontversion>=0.4.1
+diffenator2>=0.3.8
 
