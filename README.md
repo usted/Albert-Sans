@@ -84,12 +84,12 @@ Changelog example:
 - Minor adjustments
 
 
-**28 Dec 2023. Version 1.3**
+**01 Mar 2024. Version 1.3**
+- Added Width-axis with SemiCondensed
 - Spacing adjustments
-- Improved kerning
-- Lots of new glyphs, including tabular numbers
+- Extensive kerning update
+- Added glyphs, including tabular numbers
 - Glyphs adjustments
-- New Width-axis with SemiCondensed
 
 
 
