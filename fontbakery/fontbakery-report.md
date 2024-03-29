@@ -53,15 +53,15 @@ fontbakery version: 0.11.2
 
 | Name | current | expected |
 | :--- | :--- | :--- |
-| SemiCondensed Light | wght=300.0, wdth=87.0 | N/A |
-| SemiCondensed ExtraLight | wght=200.0, wdth=87.0 | N/A |
-| SemiCondensed Bold | wght=700.0, wdth=87.0 | N/A |
-| SemiCondensed SemiBold | wght=600.0, wdth=87.0 | N/A |
 | SemiCondensed Medium | wght=500.0, wdth=87.0 | N/A |
-| SemiCondensed | wght=400.0, wdth=87.0 | N/A |
-| SemiCondensed ExtraBold | wght=800.0, wdth=87.0 | N/A |
-| SemiCondensed Black | wght=900.0, wdth=87.0 | N/A |
+| SemiCondensed Bold | wght=700.0, wdth=87.0 | N/A |
 | SemiCondensed Thin | wght=100.0, wdth=87.0 | N/A |
+| SemiCondensed SemiBold | wght=600.0, wdth=87.0 | N/A |
+| SemiCondensed ExtraBold | wght=800.0, wdth=87.0 | N/A |
+| SemiCondensed Light | wght=300.0, wdth=87.0 | N/A |
+| SemiCondensed Black | wght=900.0, wdth=87.0 | N/A |
+| SemiCondensed | wght=400.0, wdth=87.0 | N/A |
+| SemiCondensed ExtraLight | wght=200.0, wdth=87.0 | N/A |
 | Thin | wght=100.0, wdth=100.0 | wght=100.0, wdth=100.0 |
 | ExtraLight | wght=200.0, wdth=100.0 | wght=200.0, wdth=100.0 |
 | Light | wght=300.0, wdth=100.0 | wght=300.0, wdth=100.0 |
@@ -143,17 +143,17 @@ This has been found to cause shaping issues for some accented letters in Microso
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
  * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: math, tifinagh, canadian-aboriginal, malayalam, old-permic, tai-le, coptic, syriac
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, tifinagh, old-permic, canadian-aboriginal, malayalam, math, tai-le
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -172,7 +172,7 @@ This has been found to cause shaping issues for some accented letters in Microso
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
- * U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian
+ * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
  * U+2030 PER MILLE SIGN: try adding adlam
  * U+205F MEDIUM MATHEMATICAL SPACE: not included in any glyphset definition
  * U+2070 SUPERSCRIPT ZERO: not included in any glyphset definition
@@ -458,10 +458,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 391:
-greater, less
+less, greater
 
 Width = 637:
-equal, approxequal
+approxequal, equal
 
 Width = 665:
 logicalnot
@@ -479,7 +479,7 @@ Width = 645:
 notequal
 
 Width = 467:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
@@ -488,27 +488,13 @@ lessequal, greaterequal
 
 	* ampersand (U+0026): X=616.0,Y=-1.0 (should be at baseline 0?)
 
-	* n (U+006E): X=247.5,Y=498.5 (should be at x-height 500?)
-
 	* t (U+0074): X=287.5,Y=-1.0 (should be at baseline 0?)
-
-	* u (U+0075): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* uni00B5 (U+00B5): X=308.5,Y=1.5 (should be at baseline 0?)
 
 	* cedilla (U+00B8): X=183.0,Y=-248.0 (should be at descender -250?)
 
 	* aring (U+00E5): X=256.0,Y=702.0 (should be at cap-height 700?)
 
 	* ccedilla (U+00E7): X=384.0,Y=-248.0 (should be at descender -250?)
-
-	* ugrave (U+00F9): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* uacute (U+00FA): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* ucircumflex (U+00FB): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* udieresis (U+00FC): X=308.5,Y=1.5 (should be at baseline 0?)
 
 	* abreve (U+0103): X=112.0,Y=698.0 (should be at cap-height 700?)
 
@@ -538,21 +524,9 @@ lessequal, greaterequal
 
 	* tcaron (U+0165): X=287.5,Y=-1.0 (should be at baseline 0?)
 
-	* utilde (U+0169): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* umacron (U+016B): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* ubreve (U+016D): X=308.5,Y=1.5 (should be at baseline 0?)
-
 	* ubreve (U+016D): X=128.0,Y=698.0 (should be at cap-height 700?)
 
-	* uring (U+016F): X=308.5,Y=1.5 (should be at baseline 0?)
-
 	* uring (U+016F): X=272.0,Y=702.0 (should be at cap-height 700?)
-
-	* uhungarumlaut (U+0171): X=308.5,Y=1.5 (should be at baseline 0?)
-
-	* uogonek (U+0173): X=308.5,Y=1.5 (should be at baseline 0?)
 
 	* uni021B (U+021B): X=287.5,Y=-1.0 (should be at baseline 0?)
 
@@ -565,8 +539,6 @@ lessequal, greaterequal
 	* uni030A (U+030A): X=108.0,Y=702.0 (should be at cap-height 700?)
 
 	* uni0327 (U+0327): X=183.0,Y=-248.0 (should be at descender -250?)
-
-	* uni03BC (U+03BC): X=308.5,Y=1.5 (should be at baseline 0?)
 
 	* turkishlira (U+20BA): X=309.5,Y=-1.0 (should be at baseline 0?)
 
@@ -586,7 +558,7 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Sar (Latn, 500,000 speakers), Ejagham (Latn, 120,000 speakers), Basaa (Latn, 332,940 speakers), Ebira (Latn, 2,200,000 speakers), Bafut (Latn, 158,146 speakers), Gulay (Latn, 250,478 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Dutch (Latn, 31,709,104 speakers), Aghem (Latn, 38,843 speakers), Bete-Bendi (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Ekpeye (Latn, 226,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), South Central Banda (Latn, 244,000 speakers), Mundani (Latn, 34,000 speakers), Avokaya (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Navajo (Latn, 166,319 speakers), Lugbara (Latn, 2,200,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Dan (Latn, 1,099,244 speakers), Fur (Latn, 1,230,163 speakers), Nateni (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Yala (Latn, 200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Nzakara (Latn, 50,000 speakers), Kom (Latn, 360,685 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Zapotec (Latn, 490,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Igbo (Latn, 27,823,640 speakers), Navajo (Latn, 166,319 speakers), Bete-Bendi (Latn, 100,000 speakers), Nateni (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), Dutch (Latn, 31,709,104 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ma’di (Latn, 584,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Aghem (Latn, 38,843 speakers), Ngbaka (Latn, 1,020,000 speakers), Mango (Latn, 77,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ejagham (Latn, 120,000 speakers), Mundani (Latn, 34,000 speakers), Nzakara (Latn, 50,000 speakers), Yala (Latn, 200,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Kom (Latn, 360,685 speakers). [code: soft-dotted]
 </div></details><br></div></details><details><summary><b>[17] AlbertSans-Italic[wdth,wght].ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Shapes languages in all GF glyphsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyphsets/shape_languages">com.google.fonts/check/glyphsets/shape_languages</a>)</summary><div>
 
 
@@ -607,16 +579,16 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 | Name | current | expected |
 | :--- | :--- | :--- |
-| SemiCondensed Light Italic | wght=300.0, wdth=87.0 | N/A |
 | SemiCondensed ExtraLight Italic | wght=200.0, wdth=87.0 | N/A |
-| SemiCondensed SemiBold Italic | wght=600.0, wdth=87.0 | N/A |
-| SemiCondensed Italic | wght=400.0, wdth=87.0 | N/A |
 | SemiCondensed ExtraBold Italic | wght=800.0, wdth=87.0 | N/A |
-| SemiCondensed Black Italic | wght=900.0, wdth=87.0 | N/A |
 | SemiCondensed Medium Italic | wght=500.0, wdth=87.0 | N/A |
+| SemiCondensed SemiBold Italic | wght=600.0, wdth=87.0 | N/A |
+| SemiCondensed Black Italic | wght=900.0, wdth=87.0 | N/A |
+| SemiCondensed Italic | wght=400.0, wdth=87.0 | N/A |
+| Regular Italic | wght=400.0, wdth=100.0 | N/A |
+| SemiCondensed Light Italic | wght=300.0, wdth=87.0 | N/A |
 | SemiCondensed Thin Italic | wght=100.0, wdth=87.0 | N/A |
 | SemiCondensed Bold Italic | wght=700.0, wdth=87.0 | N/A |
-| Regular Italic | wght=400.0, wdth=100.0 | N/A |
 | Thin Italic | wght=100.0, wdth=100.0 | wght=100.0, wdth=100.0 |
 | ExtraLight Italic | wght=200.0, wdth=100.0 | wght=200.0, wdth=100.0 |
 | Light Italic | wght=300.0, wdth=100.0 | wght=300.0, wdth=100.0 |
@@ -736,17 +708,17 @@ This has been found to cause shaping issues for some accented letters in Microso
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
  * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: math, tifinagh, canadian-aboriginal, malayalam, old-permic, tai-le, coptic, syriac
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, tifinagh, old-permic, canadian-aboriginal, malayalam, math, tai-le
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -765,7 +737,7 @@ This has been found to cause shaping issues for some accented letters in Microso
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
- * U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian
+ * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
  * U+2030 PER MILLE SIGN: try adding adlam
  * U+205F MEDIUM MATHEMATICAL SPACE: not included in any glyphset definition
  * U+2070 SUPERSCRIPT ZERO: not included in any glyphset definition
@@ -1051,10 +1023,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 391:
-greater, less
+less, greater
 
 Width = 637:
-equal, approxequal
+approxequal, equal
 
 Width = 665:
 logicalnot
@@ -1072,7 +1044,7 @@ Width = 645:
 notequal
 
 Width = 467:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
@@ -1081,27 +1053,13 @@ lessequal, greaterequal
 
 	* ampersand (U+0026): X=574.0,Y=-1.0 (should be at baseline 0?)
 
-	* n (U+006E): X=289.0,Y=498.5 (should be at x-height 500?)
-
 	* t (U+0074): X=245.5,Y=-1.0 (should be at baseline 0?)
-
-	* u (U+0075): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* uni00B5 (U+00B5): X=267.0,Y=1.5 (should be at baseline 0?)
 
 	* cedilla (U+00B8): X=99.0,Y=-248.0 (should be at descender -250?)
 
 	* aring (U+00E5): X=332.0,Y=702.0 (should be at cap-height 700?)
 
 	* ccedilla (U+00E7): X=300.0,Y=-248.0 (should be at descender -250?)
-
-	* ugrave (U+00F9): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* uacute (U+00FA): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* ucircumflex (U+00FB): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* udieresis (U+00FC): X=267.0,Y=1.5 (should be at baseline 0?)
 
 	* abreve (U+0103): X=187.0,Y=698.0 (should be at cap-height 700?)
 
@@ -1131,21 +1089,9 @@ lessequal, greaterequal
 
 	* tcaron (U+0165): X=245.5,Y=-1.0 (should be at baseline 0?)
 
-	* utilde (U+0169): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* umacron (U+016B): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* ubreve (U+016D): X=267.0,Y=1.5 (should be at baseline 0?)
-
 	* ubreve (U+016D): X=203.0,Y=698.0 (should be at cap-height 700?)
 
-	* uring (U+016F): X=267.0,Y=1.5 (should be at baseline 0?)
-
 	* uring (U+016F): X=348.0,Y=702.0 (should be at cap-height 700?)
-
-	* uhungarumlaut (U+0171): X=267.0,Y=1.5 (should be at baseline 0?)
-
-	* uogonek (U+0173): X=267.0,Y=1.5 (should be at baseline 0?)
 
 	* uni021B (U+021B): X=245.5,Y=-1.0 (should be at baseline 0?)
 
@@ -1158,8 +1104,6 @@ lessequal, greaterequal
 	* uni030A (U+030A): X=184.0,Y=702.0 (should be at cap-height 700?)
 
 	* uni0327 (U+0327): X=99.0,Y=-248.0 (should be at descender -250?)
-
-	* uni03BC (U+03BC): X=267.0,Y=1.5 (should be at baseline 0?)
 
 	* turkishlira (U+20BA): X=267.5,Y=-1.0 (should be at baseline 0?)
 
@@ -1179,7 +1123,7 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Sar (Latn, 500,000 speakers), Ejagham (Latn, 120,000 speakers), Basaa (Latn, 332,940 speakers), Ebira (Latn, 2,200,000 speakers), Bafut (Latn, 158,146 speakers), Gulay (Latn, 250,478 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Dutch (Latn, 31,709,104 speakers), Aghem (Latn, 38,843 speakers), Bete-Bendi (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Ekpeye (Latn, 226,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), South Central Banda (Latn, 244,000 speakers), Mundani (Latn, 34,000 speakers), Avokaya (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Navajo (Latn, 166,319 speakers), Lugbara (Latn, 2,200,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Dan (Latn, 1,099,244 speakers), Fur (Latn, 1,230,163 speakers), Nateni (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Yala (Latn, 200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Nzakara (Latn, 50,000 speakers), Kom (Latn, 360,685 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Zapotec (Latn, 490,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Igbo (Latn, 27,823,640 speakers), Navajo (Latn, 166,319 speakers), Bete-Bendi (Latn, 100,000 speakers), Nateni (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), Dutch (Latn, 31,709,104 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ma’di (Latn, 584,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Aghem (Latn, 38,843 speakers), Ngbaka (Latn, 1,020,000 speakers), Mango (Latn, 77,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ejagham (Latn, 120,000 speakers), Mundani (Latn, 34,000 speakers), Nzakara (Latn, 50,000 speakers), Yala (Latn, 200,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Kom (Latn, 360,685 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
