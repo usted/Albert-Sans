@@ -146,14 +146,6 @@
 
 	  
 	    @font-face{
-    src: url(AlbertSans-SemiCondensedThinItalic.ttf);
-    font-family: "Albert Sans";
-    font-weight: 100;
-    
-    font-style: italic;
-}
-	  
-	    @font-face{
     src: url(AlbertSans-SemiCondensedThin.ttf);
     font-family: "Albert Sans";
     font-weight: 100;
@@ -161,25 +153,33 @@
     font-style: normal;
 }
 	  
-
-	  
-
-	  
-
-	  
-	    .SemiCondensed-Thin{
-    font-family: "Albert Sans", "Adobe NotDef";
+	    @font-face{
+    src: url(AlbertSans-SemiCondensedThinItalic.ttf);
+    font-family: "Albert Sans";
     font-weight: 100;
     
-    font-style: normal;
-    font-variation-settings: "wght" 100;
+    font-style: italic;
 }
+	  
+
+	  
+
+	  
+
 	  
 	    .SemiCondensed-Thin-Italic{
     font-family: "Albert Sans", "Adobe NotDef";
     font-weight: 100;
     
     font-style: italic;
+    font-variation-settings: "wght" 100;
+}
+	  
+	    .SemiCondensed-Thin{
+    font-family: "Albert Sans", "Adobe NotDef";
+    font-weight: 100;
+    
+    font-style: normal;
     font-variation-settings: "wght" 100;
 }
 	  
@@ -222,8 +222,8 @@
 	
   
       <div class="box">
-	<div class="box-title">SemiCondensed-Thin 20pt</div>
-	  <span class="box-text SemiCondensed-Thin" style="font-size: 20pt">
+	<div class="box-title">SemiCondensed-Thin-Italic 20pt</div>
+	  <span class="box-text SemiCondensed-Thin-Italic" style="font-size: 20pt">
 	    
 	      <div class="cell"> </div>
 	    
@@ -1187,8 +1187,8 @@
        </div>
     
       <div class="box">
-	<div class="box-title">SemiCondensed-Thin-Italic 20pt</div>
-	  <span class="box-text SemiCondensed-Thin-Italic" style="font-size: 20pt">
+	<div class="box-title">SemiCondensed-Thin 20pt</div>
+	  <span class="box-text SemiCondensed-Thin" style="font-size: 20pt">
 	    
 	      <div class="cell"> </div>
 	    
