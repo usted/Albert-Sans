@@ -195660,10 +195660,6 @@ Location = 100;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195692,10 +195688,6 @@ Location = 200;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195725,10 +195717,6 @@ Location = 300;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195758,10 +195746,6 @@ Location = 400;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195790,10 +195774,6 @@ Location = 500;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195822,10 +195802,6 @@ Location = 600;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195855,10 +195831,6 @@ Location = 700;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195889,10 +195861,6 @@ Location = 800;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195922,10 +195890,6 @@ Location = 900;
 {
 Axis = Width;
 Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195954,10 +195918,6 @@ Location = 100;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -195988,10 +195948,6 @@ Location = 200;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196024,10 +195980,6 @@ Location = 300;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196060,10 +196012,6 @@ Location = 400;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196095,10 +196043,6 @@ Location = 500;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196129,10 +196073,6 @@ Location = 600;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196165,10 +196105,6 @@ Location = 700;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196202,10 +196138,6 @@ Location = 800;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -196238,10 +196170,6 @@ Location = 900;
 {
 Axis = Width;
 Location = 87.5;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
