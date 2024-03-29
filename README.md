@@ -13,8 +13,8 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. 
-The Albert Sans family includes ten weights from Thin to Black and supports over two hundred languages.
+Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century.
+The Albert Sans family includes nine weights (Thin to Black) in two widths (Normal and SemiCondensed).
 
 Designed by the Danish type designer Andreas Rasmussen from a.Foundry.
 
