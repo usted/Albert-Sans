@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3252";
 .formatVersion = 3;
 DisplayStrings = (
 "HOHHAVHHOH
@@ -634,7 +634,8 @@ nicnid niuaid ",
 nifnid nifid 
 nienid niuaid 
 14TEHKHDIV 
-TEHODIV TEHRHDIV "
+TEHODIV TEHRHDIV ",
+"⅟⅟⅕⅕⅑⅑……"
 );
 axes = (
 {
@@ -1770,7 +1771,7 @@ pos = -200;
 {
 }
 );
-name = "SemiCondensed Thin";
+name = "Narrow Thin";
 stemValues = (
 22,
 20,
@@ -1911,7 +1912,7 @@ pos = -200;
 {
 }
 );
-name = "SemiCondensed Medium";
+name = "Narrow Medium";
 stemValues = (
 98,
 82,
@@ -2052,7 +2053,7 @@ pos = -200;
 {
 }
 );
-name = "SemiCondensed Black";
+name = "Narrow Black";
 stemValues = (
 175,
 147,
@@ -117519,11 +117520,11 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (139,0);
+pos = (140,0);
 ref = fraction;
 }
 );
-width = 278;
+width = 279;
 },
 {
 layerId = "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B";
@@ -118823,15 +118824,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (139,0);
+pos = (140,0);
 ref = fraction;
 },
 {
-pos = (269,0);
+pos = (270,0);
 ref = five.dnom;
 }
 );
-width = 564;
+width = 565;
 },
 {
 layerId = "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B";
@@ -120889,15 +120890,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (139,0);
+pos = (140,0);
 ref = fraction;
 },
 {
-pos = (270,0);
+pos = (271,0);
 ref = nine.dnom;
 }
 );
-width = 542;
+width = 543;
 },
 {
 layerId = "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B";
@@ -128072,12 +128073,12 @@ ref = period;
 },
 {
 alignment = 1;
-pos = (256,0);
+pos = (257,0);
 ref = period;
 },
 {
 alignment = 1;
-pos = (513,0);
+pos = (514,0);
 ref = period;
 }
 );
@@ -128098,7 +128099,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 764;
+width = 765;
 }
 );
 metricRight = "=|";
@@ -195568,7 +195569,7 @@ Location = 87.5;
 instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 1;
 };
-name = "SemiCondensed Thin";
+name = "Narrow Thin";
 weightClass = 100;
 widthClass = 4;
 },
@@ -195596,7 +195597,7 @@ instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.74648;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.25352;
 };
-name = "SemiCondensed ExtraLight";
+name = "Narrow ExtraLight";
 weightClass = 200;
 widthClass = 4;
 },
@@ -195624,7 +195625,7 @@ instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.49296;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.50704;
 };
-name = "SemiCondensed Light";
+name = "Narrow Light";
 weightClass = 300;
 widthClass = 4;
 },
@@ -195652,7 +195653,7 @@ instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.25352;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.74648;
 };
-name = SemiCondensed;
+name = Narrow;
 widthClass = 4;
 },
 {
@@ -195678,7 +195679,7 @@ Location = 87.5;
 instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 1;
 };
-name = "SemiCondensed Medium";
+name = "Narrow Medium";
 weightClass = 500;
 widthClass = 4;
 },
@@ -195706,7 +195707,7 @@ instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.74648;
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.25352;
 };
-name = "SemiCondensed SemiBold";
+name = "Narrow SemiBold";
 weightClass = 600;
 widthClass = 4;
 },
@@ -195735,8 +195736,8 @@ instanceInterpolations = {
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.50704;
 };
 isBold = 1;
-linkStyle = SemiCondensed;
-name = "SemiCondensed Bold";
+linkStyle = Narrow;
+name = "Narrow Bold";
 weightClass = 700;
 widthClass = 4;
 },
@@ -195764,7 +195765,7 @@ instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.25352;
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.74648;
 };
-name = "SemiCondensed ExtraBold";
+name = "Narrow ExtraBold";
 weightClass = 800;
 widthClass = 4;
 },
@@ -195791,7 +195792,7 @@ Location = 87.5;
 instanceInterpolations = {
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 1;
 };
-name = "SemiCondensed Black";
+name = "Narrow Black";
 weightClass = 900;
 widthClass = 4;
 }
