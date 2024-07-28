@@ -195324,10 +195324,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195354,10 +195350,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195385,10 +195377,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195416,10 +195404,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195446,10 +195430,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195476,10 +195456,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195507,10 +195483,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195518,7 +195490,6 @@ instanceInterpolations = {
 m008 = 0.50704;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 },
@@ -195540,10 +195511,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195571,10 +195538,6 @@ Axis = Width;
 Location = 100;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195601,16 +195564,23 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 1;
 };
-name = "Narrow Thin";
+name = Thin;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 100;
 widthClass = 4;
 },
@@ -195632,17 +195602,24 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.74648;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.25352;
 };
-name = "Narrow ExtraLight";
+name = ExtraLight;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 200;
 widthClass = 4;
 },
@@ -195664,17 +195641,24 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.49296;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.50704;
 };
-name = "Narrow Light";
+name = Light;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 300;
 widthClass = 4;
 },
@@ -195696,17 +195680,24 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "37E7CDDA-CEC6-40F9-AC4F-410C0BC0DDCF" = 0.25352;
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.74648;
 };
-name = Narrow;
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 widthClass = 4;
 },
 {
@@ -195727,16 +195718,23 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 1;
 };
-name = "Narrow Medium";
+name = Medium;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 500;
 widthClass = 4;
 },
@@ -195758,17 +195756,24 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.74648;
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.25352;
 };
-name = "Narrow SemiBold";
+name = SemiBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 600;
 widthClass = 4;
 },
@@ -195790,10 +195795,6 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -195801,8 +195802,18 @@ instanceInterpolations = {
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.50704;
 };
 isBold = 1;
-linkStyle = Narrow;
-name = "Narrow Bold";
+name = Bold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 700;
 widthClass = 4;
 },
@@ -195824,17 +195835,24 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "4F6B2F0C-3760-4036-AE58-68A1B75FEF4B" = 0.25352;
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 0.74648;
 };
-name = "Narrow ExtraBold";
+name = ExtraBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 800;
 widthClass = 4;
 },
@@ -195856,16 +195874,23 @@ Axis = Width;
 Location = 87.5;
 }
 );
-},
-{
-name = "Export STAT Table";
-value = 1;
 }
 );
 instanceInterpolations = {
 "E035AF15-4D47-4C1B-8EB8-9E5E18B6D87B" = 1;
 };
-name = "Narrow Black";
+name = Black;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Albert Sans Narrow";
+}
+);
+}
+);
 weightClass = 900;
 widthClass = 4;
 }
