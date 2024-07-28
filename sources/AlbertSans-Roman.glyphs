@@ -1,5 +1,5 @@
 {
-.appVersion = "3252";
+.appVersion = "3314";
 .formatVersion = 3;
 DisplayStrings = (
 "HOHHAVHHOH
@@ -1860,7 +1860,7 @@ value = 950;
 },
 {
 name = hheaDescender;
-value = -249.46;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -24020,7 +24020,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 628.99948;
+width = 629;
 },
 {
 layerId = m008;
@@ -24309,7 +24309,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 628.99948;
+width = 629;
 },
 {
 layerId = m008;
@@ -48021,7 +48021,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 layerId = m008;
@@ -48310,7 +48310,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 layerId = m008;
@@ -48599,7 +48599,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 layerId = m008;
@@ -67628,7 +67628,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -67916,7 +67916,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -68205,7 +68205,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -68493,7 +68493,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -68779,7 +68779,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -69059,7 +69059,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -69348,7 +69348,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -69924,7 +69924,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 associatedMasterId = m005;
@@ -178649,7 +178649,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 243.00074;
+width = 243;
 },
 {
 associatedMasterId = m005;
@@ -178887,7 +178887,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 243.00074;
+width = 243;
 },
 {
 associatedMasterId = m005;
@@ -179705,7 +179705,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 311.99904;
+width = 312;
 },
 {
 associatedMasterId = m005;
@@ -179943,7 +179943,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 311.99904;
+width = 312;
 },
 {
 associatedMasterId = m005;

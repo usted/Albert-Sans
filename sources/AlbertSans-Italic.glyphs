@@ -1,5 +1,5 @@
 {
-.appVersion = "3252";
+.appVersion = "3314";
 .formatVersion = 3;
 DisplayStrings = (
 "HOHHAVHHOH
@@ -1863,7 +1863,7 @@ value = 950;
 },
 {
 name = hheaDescender;
-value = -249.46;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -24025,7 +24025,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 628.99948;
+width = 629;
 },
 {
 associatedMasterId = "58bebe4f-9ca5-4d90-881b-c2d59ecd3066";
@@ -24314,7 +24314,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 628.99948;
+width = 629;
 },
 {
 associatedMasterId = "58bebe4f-9ca5-4d90-881b-c2d59ecd3066";
@@ -48026,7 +48026,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 associatedMasterId = "58bebe4f-9ca5-4d90-881b-c2d59ecd3066";
@@ -48315,7 +48315,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 associatedMasterId = "58bebe4f-9ca5-4d90-881b-c2d59ecd3066";
@@ -48604,7 +48604,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 554.00081;
+width = 554;
 },
 {
 associatedMasterId = "58bebe4f-9ca5-4d90-881b-c2d59ecd3066";
@@ -67756,7 +67756,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -68044,7 +68044,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -68333,7 +68333,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -68621,7 +68621,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -68903,7 +68903,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -69187,7 +69187,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -69476,7 +69476,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -70052,7 +70052,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_5 = "5";
 };
-width = 269.99925;
+width = 270;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -178757,7 +178757,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 243.00074;
+width = 243;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -178995,7 +178995,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 243.00074;
+width = 243;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -179813,7 +179813,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 311.99904;
+width = 312;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -180051,7 +180051,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 311.99904;
+width = 312;
 },
 {
 layerId = "8D5D41BF-E921-4DFA-A794-BFB439395CD4";
@@ -195514,7 +195514,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = 700;
 },
@@ -195778,7 +195777,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = "Narrow Bold";
+linkStyle = Narrow;
 name = "Narrow Bold Italic";
 weightClass = 700;
 widthClass = 4;
