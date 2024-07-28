@@ -155,11 +155,11 @@ These won't break the CI job for now, but will become effective after some time 
 <tbody>
 <tr>
 <td align="left">nl_Latn (Dutch)</td>
-<td align="left">Shaper didn't attach acutecomb to J</td>
+<td align="left">Shaper didn't attach acutecomb to uni0237</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0237</td>
+<td align="left">Shaper didn't attach acutecomb to J</td>
 </tr>
 </tbody>
 </table>
@@ -180,37 +180,37 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraLight Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraLight Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraLight Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraLight Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Albert Sans Medium ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
@@ -232,7 +232,7 @@ These won't break the CI job for now, but will become effective after some time 
 * ⚠️ **WARN** <p>The most common width is 596 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 391:
-less, greater</p>
+greater, less</p>
 <p>Width = 637:
 equal, approxequal</p>
 <p>Width = 665:
@@ -246,7 +246,7 @@ minus</p>
 <p>Width = 645:
 notequal</p>
 <p>Width = 467:
-greaterequal, lessequal</p>
+lessequal, greaterequal</p>
  [code: width-outliers]
 
 
@@ -407,7 +407,7 @@ greaterequal, lessequal</p>
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̊ į̋ į̒ į̦̀ į̦́ į̦̂ į̦̃ į̦̄ į̦̆ į̦̇ į̦̈ į̦̊ į̦̋ į̦̌ į̦̒ į̧̀ į̧́</p>
 <p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Basaa (Latn, 332,940 speakers), Lugbara (Latn, 2,200,000 speakers), South Central Banda (Latn, 244,000 speakers), Mfumte (Latn, 79,000 speakers), Nzakara (Latn, 50,000 speakers), Fur (Latn, 1,230,163 speakers), Ekpeye (Latn, 226,000 speakers), Dan (Latn, 1,099,244 speakers), Navajo (Latn, 166,319 speakers), Ejagham (Latn, 120,000 speakers), Kom (Latn, 360,685 speakers), Vute (Latn, 21,000 speakers), Mundani (Latn, 34,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Makaa (Latn, 221,000 speakers), Dutch (Latn, 31,709,104 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Igbo (Latn, 27,823,640 speakers), Belarusian (Cyrl, 10,064,517 speakers), Koonzime (Latn, 40,000 speakers), Bafut (Latn, 158,146 speakers), Cicipu (Latn, 44,000 speakers), Ma’di (Latn, 584,000 speakers), Ebira (Latn, 2,200,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Zapotec (Latn, 490,000 speakers), Nateni (Latn, 100,000 speakers), Sar (Latn, 500,000 speakers), Gulay (Latn, 250,478 speakers), Aghem (Latn, 38,843 speakers), Yala (Latn, 200,000 speakers), Southern Kisi (Latn, 360,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ekpeye (Latn, 226,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Aghem (Latn, 38,843 speakers), Dutch (Latn, 31,709,104 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Mango (Latn, 77,000 speakers), Ma’di (Latn, 584,000 speakers), Sar (Latn, 500,000 speakers), Gulay (Latn, 250,478 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Fur (Latn, 1,230,163 speakers), Ebira (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Avokaya (Latn, 100,000 speakers), Bafut (Latn, 158,146 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Yala (Latn, 200,000 speakers), Mfumte (Latn, 79,000 speakers), Cicipu (Latn, 44,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Nateni (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), South Central Banda (Latn, 244,000 speakers), Kom (Latn, 360,685 speakers), Vute (Latn, 21,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mundani (Latn, 34,000 speakers), Dan (Latn, 1,099,244 speakers).</p>
  [code: soft-dotted]
 
 
@@ -431,14 +431,14 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, tifinagh, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, math, canadian-aboriginal, old-permic, malayalam, coptic, syriac, tai-le</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tai-le, malayalam, tifinagh, syriac, old-permic, math, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -502,14 +502,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+215F FRACTION NUMERATOR ONE: not included in any glyphset definition</li>
 <li>U+2189 VULGAR FRACTION ZERO THIRDS: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
@@ -521,7 +521,7 @@ definitions.</p>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
@@ -645,11 +645,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nl_Latn (Dutch)</td>
-<td align="left">Shaper didn't attach acutecomb to J</td>
+<td align="left">Shaper didn't attach acutecomb to uni0237</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0237</td>
+<td align="left">Shaper didn't attach acutecomb to J</td>
 </tr>
 </tbody>
 </table>
@@ -691,7 +691,7 @@ definitions.</p>
 * ⚠️ **WARN** <p>The most common width is 596 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 391:
-less, greater</p>
+greater, less</p>
 <p>Width = 637:
 equal, approxequal</p>
 <p>Width = 665:
@@ -705,7 +705,7 @@ minus</p>
 <p>Width = 645:
 notequal</p>
 <p>Width = 467:
-greaterequal, lessequal</p>
+lessequal, greaterequal</p>
  [code: width-outliers]
 
 
@@ -866,7 +866,7 @@ greaterequal, lessequal</p>
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̊ į̋ į̒ į̦̀ į̦́ į̦̂ į̦̃ į̦̄ į̦̆ į̦̇ į̦̈ į̦̊ į̦̋ į̦̌ į̦̒ į̧̀ į̧́</p>
 <p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Basaa (Latn, 332,940 speakers), Lugbara (Latn, 2,200,000 speakers), South Central Banda (Latn, 244,000 speakers), Mfumte (Latn, 79,000 speakers), Nzakara (Latn, 50,000 speakers), Fur (Latn, 1,230,163 speakers), Ekpeye (Latn, 226,000 speakers), Dan (Latn, 1,099,244 speakers), Navajo (Latn, 166,319 speakers), Ejagham (Latn, 120,000 speakers), Kom (Latn, 360,685 speakers), Vute (Latn, 21,000 speakers), Mundani (Latn, 34,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Makaa (Latn, 221,000 speakers), Dutch (Latn, 31,709,104 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Igbo (Latn, 27,823,640 speakers), Belarusian (Cyrl, 10,064,517 speakers), Koonzime (Latn, 40,000 speakers), Bafut (Latn, 158,146 speakers), Cicipu (Latn, 44,000 speakers), Ma’di (Latn, 584,000 speakers), Ebira (Latn, 2,200,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Zapotec (Latn, 490,000 speakers), Nateni (Latn, 100,000 speakers), Sar (Latn, 500,000 speakers), Gulay (Latn, 250,478 speakers), Aghem (Latn, 38,843 speakers), Yala (Latn, 200,000 speakers), Southern Kisi (Latn, 360,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ekpeye (Latn, 226,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Aghem (Latn, 38,843 speakers), Dutch (Latn, 31,709,104 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Mango (Latn, 77,000 speakers), Ma’di (Latn, 584,000 speakers), Sar (Latn, 500,000 speakers), Gulay (Latn, 250,478 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Fur (Latn, 1,230,163 speakers), Ebira (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Avokaya (Latn, 100,000 speakers), Bafut (Latn, 158,146 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Yala (Latn, 200,000 speakers), Mfumte (Latn, 79,000 speakers), Cicipu (Latn, 44,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Nateni (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), South Central Banda (Latn, 244,000 speakers), Kom (Latn, 360,685 speakers), Vute (Latn, 21,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mundani (Latn, 34,000 speakers), Dan (Latn, 1,099,244 speakers).</p>
  [code: soft-dotted]
 
 
@@ -890,14 +890,14 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, tifinagh, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, math, canadian-aboriginal, old-permic, malayalam, coptic, syriac, tai-le</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tai-le, malayalam, tifinagh, syriac, old-permic, math, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -961,14 +961,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+215F FRACTION NUMERATOR ONE: not included in any glyphset definition</li>
 <li>U+2189 VULGAR FRACTION ZERO THIRDS: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
@@ -980,7 +980,7 @@ definitions.</p>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
