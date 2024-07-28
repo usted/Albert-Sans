@@ -1026,6 +1026,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1072,18 +1084,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -1243,6 +1243,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1289,18 +1301,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -1450,6 +1450,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1496,18 +1508,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -1660,6 +1660,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1706,18 +1718,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -1807,6 +1807,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1853,18 +1865,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -1948,6 +1948,18 @@ name = winDescent;
 value = 320;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = underlineThickness;
 value = 50;
 },
@@ -1994,18 +2006,6 @@ value = 350;
 {
 name = superscriptYSize;
 value = 600;
-},
-{
-name = hheaAscender;
-value = 950;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = paramArea;
@@ -195324,6 +195324,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195350,6 +195354,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195377,6 +195385,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195404,6 +195416,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195430,6 +195446,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195456,6 +195476,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195483,6 +195507,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195490,6 +195518,7 @@ instanceInterpolations = {
 m008 = 0.50704;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 },
@@ -195511,6 +195540,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195538,6 +195571,10 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195564,6 +195601,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195591,6 +195632,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195619,6 +195664,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195647,6 +195696,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195674,6 +195727,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195701,6 +195758,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195729,6 +195790,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195759,6 +195824,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -195787,6 +195856,10 @@ Axis = Width;
 Location = 87.5;
 }
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 instanceInterpolations = {
