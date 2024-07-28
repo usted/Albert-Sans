@@ -195490,6 +195490,7 @@ instanceInterpolations = {
 m008 = 0.50704;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 },
