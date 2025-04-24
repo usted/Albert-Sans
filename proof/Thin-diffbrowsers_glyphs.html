@@ -146,14 +146,6 @@
 
 	  
 	    @font-face{
-    src: url("AlbertSans-Italic%5Bwdth%2Cwght%5D.ttf");
-    font-family: "Albert Sans";
-    font-weight: 100 900;
-    font-stretch: 87% 100%;
-    font-style: italic;
-}
-	  
-	    @font-face{
     src: url("AlbertSans-Roman%5Bwdth%2Cwght%5D.ttf");
     font-family: "Albert Sans";
     font-weight: 100 900;
@@ -161,25 +153,33 @@
     font-style: normal;
 }
 	  
-
-	  
-
-	  
-
-	  
-	    .Thin-Italic{
-    font-family: "Albert Sans", "Adobe NotDef";
-    font-weight: 100.0;
-    font-stretch: 100.0%;
+	    @font-face{
+    src: url("AlbertSans-Italic%5Bwdth%2Cwght%5D.ttf");
+    font-family: "Albert Sans";
+    font-weight: 100 900;
+    font-stretch: 87% 100%;
     font-style: italic;
-    font-variation-settings: "wght" 100.0, "wdth" 100.0;
 }
+	  
+
+	  
+
+	  
+
 	  
 	    .Thin{
     font-family: "Albert Sans", "Adobe NotDef";
     font-weight: 100.0;
     font-stretch: 100.0%;
     font-style: normal;
+    font-variation-settings: "wght" 100.0, "wdth" 100.0;
+}
+	  
+	    .Thin-Italic{
+    font-family: "Albert Sans", "Adobe NotDef";
+    font-weight: 100.0;
+    font-stretch: 100.0%;
+    font-style: italic;
     font-variation-settings: "wght" 100.0, "wdth" 100.0;
 }
 	  
@@ -222,8 +222,8 @@
 	
   
       <div class="box">
-	<div class="box-title">Thin-Italic 20pt</div>
-	  <span class="box-text Thin-Italic" style="font-size: 20pt">
+	<div class="box-title">Thin 20pt</div>
+	  <span class="box-text Thin" style="font-size: 20pt">
 	    
 	      <div class="cell"> </div>
 	    
@@ -1187,8 +1187,8 @@
        </div>
     
       <div class="box">
-	<div class="box-title">Thin 20pt</div>
-	  <span class="box-text Thin" style="font-size: 20pt">
+	<div class="box-title">Thin-Italic 20pt</div>
+	  <span class="box-text Thin-Italic" style="font-size: 20pt">
 	    
 	      <div class="cell"> </div>
 	    
