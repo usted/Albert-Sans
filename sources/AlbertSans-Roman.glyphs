@@ -642,82 +642,7 @@ TEHODIV TEHRHDIV ",
 "AÁĂǍÂÄÀĀĄÅÃÆǼBCĆČÇĈĊĎÉĔĚÊËĖÈĒĘẼĞǦĜĢĠḠĤÍĬÎÏİÌĪĮĨ/Jacute ĴǨĶĽĻŅÑŊÓŎÔÖÒŐŌÕŔŘŖŚŠŞŜȘŤŢȚŲŮŨẂŴẄẀÝŶŸỲȲỸçĥų/lcommaaccent.loclMAH",
 "̦̒¨˙`´˝ˆˇ˘˚˜¯Å¸˛",
 "´Áá",
-"¸Şş",
-"Ꜳ",
-"Highest:
-˚ÅŮ´l´lĺÁǍÂÀǼĆČĈĎÉĚÊÈǦĜĤÍ
-Lowest:
-ÇŞŢçşţ̧¸ĢĶŅŖȘȚ/Ncommaaccent.loclMAH șț̦/commaaccentcomb.loclMAH ķ",
-"³",
-"₂",
-"Highest:
-₂
-Lowest:
-₂",
-"Highest:
-ÅŮÁǍÂÀǼĆČĈĎÉĚÊÈǦĜĤÍÎ
-Lowest:
-ÇŞŢçştţ̧¸ĢĶŅŖȘȚ/Ncommaaccent.loclMAH șț̦/commaaccentcomb.loclMAH ķ",
-"țțț",
-"sa
-TEHBHDIV 18
-niuaid nienid nionid 
-niDonid niuaid ",
-"abcdefgoøoeœpþqsśno/g.ss02",
-a,
-"CH
-EH
-FH
-GH
-HA
-HO
-HS
-HT
-JU
-KH
-RH
-Xi
-cn
-nn
-rn
-vn
-wn
-zn
-fi
-ti
-u.
-u:
-H!
-d-
-d—
-d\"
-‹h
-n@
-in
-on
-uf
-ut
-1H
-10
-11
-12
-13
-16
-17
-18
-19",
-"no
-TEHBHDIV 18",
-"Dolomittene
-Delfinsafari
-Aquatic
-cnSærskilt avtale
-Byråkrati
-cnTilbake
-TEHBHDIV 18",
-"/three.tf",
-"0123456789/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf",
-"/zero.tf"
+A
 );
 axes = (
 {
@@ -2585,7 +2510,7 @@ color = 10;
 glyphname = A;
 kernLeft = KO_A;
 kernRight = KO_A;
-lastChange = "2025-04-23 18:54:11 +0000";
+lastChange = "2025-04-26 07:12:06 +0000";
 layers = (
 {
 anchors = (
